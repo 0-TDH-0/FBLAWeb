@@ -443,4 +443,4 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
   });
   
   let value = params.place; 
-  document.getElementById("body").innerHTML = "<img src= \'" + loc.Primo.img + "\'>";
+  document.getElementById("body").innerHTML = "<img src= \'" + loc[value]["img"] + "\'>";
