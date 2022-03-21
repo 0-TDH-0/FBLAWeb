@@ -18,7 +18,7 @@ const loc = {
     Galati_Pizza: {
       phone: "847-740-4222",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Gallati Pizza.jpg",
+      img: "./images/Galati Pizza.jpg",
       website: "https://www.galatipizza.com/",
       timings: "3 pm - 11 pm",
       about: ""
