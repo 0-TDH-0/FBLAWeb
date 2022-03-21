@@ -118,11 +118,7 @@ const loc = {
       website: "https://dulcemargaritas.com//",
       timings: "10 am - 9 pm",
       about: ""
-    }
-  };
-  
-  
-  const stores = {
+    },
     Marianos: {
       phone: "866-742-6728",
       address: "1720 N Milwaukee Ave, Vernon Hills, IL 60061",
@@ -243,11 +239,6 @@ const loc = {
       timings: "9 am - 4 pm",
       about: ""
     },
-  };
-
-
-  
-  const entertainment = {
     Citadel_Theatre: {
       phone: "847-735-8554",
       address: "300 S Waukegan Rd, Lake Forest, IL 60045",
@@ -328,12 +319,6 @@ const loc = {
       timings: "9 pm - 5 pm",
       about: ""
     },
-  };
-
-
-
-
-  const attractions = {
     Launch_Trampoline_Park_Gurnee: {
       phone: "224-325-5867",
       address: "880 Lakeside Dr, Gurnee, IL 60031",
@@ -414,10 +399,6 @@ const loc = {
       timings: "8 am - sunset",
       about: ""
     },
-  };
-
-
-  const hotels = {
     Travelodge_by_Wyndham_Waukegan: {
       phone: "847-693-4431",
       address: "3633 N Lewis Ave, Waukegan, IL 60087",
@@ -452,7 +433,7 @@ const loc = {
       img: "./images/Woodspring Suites Gurnee.jpg",
       website: "https://www.woodspring.com/extended-stay-hotels/locations/illinois/gurnee/woodspring-suites-gurnee-north-chicago",
       about: ""
-    },
+    }
   };
 
 
