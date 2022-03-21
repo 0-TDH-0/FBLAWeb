@@ -122,7 +122,7 @@ const loc = {
     Marianos: {
       phone: "866-742-6728",
       address: "1720 N Milwaukee Ave, Vernon Hills, IL 60061",
-      img: "./images/Mariano's.jpg",
+      img: "./images/Marianos.jpg",
       website: "http://www.marianos.com/",
       timings: "6 am - 10 pm",
       about: ""
@@ -279,10 +279,10 @@ const loc = {
       timings: "12 pm - 5:30 pm",
       about: ""
     },
-    C_You_At_The_Movies,_Inc: {
+    C_You_At_The_Movies_Inc: {
       phone: "815-578-0500",
       address: "1204 N Green St, McHenry, IL 60050",
-      img: "./images/C You At The Movies, Inc...jpeg",
+      img: "./images/C You At The Movies, Inc..jpeg",
       website: "https://mchenrydowntowntheater.com/",
       timings: "10 pm - 4 pm",
       about: ""
