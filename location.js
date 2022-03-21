@@ -10,7 +10,7 @@ const loc = {
     Sarpino: {
       phone: "847-223-5000",
       address: "34484 US-45 Ste B, Third Lake, IL 60030",
-      img: "./images/Sarpino's Pizzeria.jpg",
+      img: "./images/Sarpinos Pizzeria.jpg",
       website: "https://gurnee.gosarpinos.com/ordering/intro/",
       timings: "10 am - 1 am",
       about: ""
@@ -26,7 +26,7 @@ const loc = {
     Capones_Kitchen: {
       phone: "847-249-1776",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Capone's Kitchen.png",
+      img: "./images/Capones Kitchen.png",
       website: "https://www.sixflags.com/greatamerica/things-to-do/restaurants",
       timings: "11 am - 10:30 pm",
       about: ""
@@ -50,7 +50,7 @@ const loc = {
     Flanagans_Bar_and_Grill: {
       phone: "847-689-9062",
       address: " 3201 Buckley Rd, North Chicago, IL 60064",
-      img: "./images/Flanagan's Bar & Grill.jpg",
+      img: "./images/Flanagans Bar & Grill.jpg",
       website: "http://www.flanaganssportsbar.com/",
       timings: "10 am - 1 am",
       about: ""
@@ -66,7 +66,7 @@ const loc = {
     Culvers: {
       phone: "847-662-9666",
       address: "1505 Nations Dr, Gurnee, IL 60031",
-      img: "./images/Culver's.jpg",
+      img: "./images/Culvers.jpg",
       website: "http://www.culvers.com/",
       timings: "10:30 am - 10 pm",
       about: ""
@@ -98,7 +98,7 @@ const loc = {
     Abels_Cantina: {
       phone: "847-548-2003",
       address: "125 Center St, Grayslake, IL 60030",
-      img: "./images/Abel's Cantina.jpg",
+      img: "./images/Abels Cantina.jpg",
       website: "https://abelscantina.square.site/",
       timings: "4 pm - 11 pm",
       about: ""
@@ -138,7 +138,7 @@ const loc = {
     Georges_Fresh_Market: {
       phone: "224-656-5488",
       address: "1490 Lewis Ave, North Chicago, IL 60064",
-      img: "./images/George's Fresh Market.jpg",
+      img: "./images/Georges Fresh Market.jpg",
       website: "https://www.georgesfreshmarket.com/",
       timings: "7 am - 9 pm",
       about: ""
@@ -146,7 +146,7 @@ const loc = {
     Heinens_Grocery_Store: {
       phone: "847-735-0026",
       address: "201 Waukegan Rd, Lake Bluff, IL 60044",
-      img: "./images/Heinen's Grocery Store.jpg",
+      img: "./images/Heinens Grocery Store.jpg",
       website: "http://www.heinens.com/",
       timings: "8 am - 8 pm",
       about: ""
@@ -154,7 +154,7 @@ const loc = {
     Jims_Pantry_Food_Mart: {
       phone: "847-623-6116",
       address: "Waukegan, IL 60087",
-      img: "./images/Jim's Pantry Food Mart.jpg",
+      img: "./images/Jims Pantry Food Mart.jpg",
       website: "https://nicelocal.com/illinois/shops/jims_pantry/",
       timings: "9 am - 12 pm",
       about: ""
@@ -170,7 +170,7 @@ const loc = {
     dds_DISCOUNT: {
       phone: "847-599-8632",
       address: "1535 N Lewis Ave, Waukegan, IL 60085",
-      img: "./images/dd's DISCOUNTS.jpg",
+      img: "./images/dds DISCOUNTS.jpg",
       website: "https://www.ddsdiscounts.com/",
       timings: "9 am - 10:30 pm",
       about: ""
@@ -202,7 +202,7 @@ const loc = {
     Lucys_Appliances: {
       phone: "847-872-4922",
       address: "3460 Sheridan Rd, Zion, IL 60099",
-      img: "./images/Lucy's Appliances.jpg",
+      img: "./images/Lucys Appliances.jpg",
       website: "https://www.lucysappliances.com/",
       timings: "9 am - 5 pm",
       about: ""
@@ -218,7 +218,7 @@ const loc = {
     Aarons: {
       phone: "847-625-1111",
       address: "1403 N Lewis Ave, Waukegan, IL 60085",
-      img: "./images/Aaron's.jpg",
+      img: "./images/Aarons.jpg",
       website: "http://www.aarons.com/",
       timings: "10 am - 7 pm",
       about: ""
