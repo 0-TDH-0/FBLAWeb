@@ -265,7 +265,7 @@ const restaurant = {
     }
   };
   const hotels = {
-    Travelodge_By_Whyndham_Waukegan: {
+    Travelodge_By_Wyndham_Waukegan: {
       rating: 3,
       price: 1
     },

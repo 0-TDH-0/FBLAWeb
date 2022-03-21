@@ -399,7 +399,7 @@ const loc = {
       timings: "8 am - sunset",
       about: ""
     },
-    Travelodge_by_Wyndham_Waukegan: {
+    Travelodge_By_Wyndham_Waukegan: {
       phone: "847-693-4431",
       address: "3633 N Lewis Ave, Waukegan, IL 60087",
       img: "./images/Travelodge by Wyndham Waukegan.jpg",
