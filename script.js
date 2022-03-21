@@ -138,7 +138,7 @@ const restaurant = {
       rating: 4,
       price: 3
     },
-    BestBuy: {
+    Best_Buy: {
       style: "Appliances",
       rating: 4,
       price: 2

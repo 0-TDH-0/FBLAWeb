@@ -443,4 +443,10 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
   });
   
   let value = params.place; 
-  document.getElementById("body").innerHTML = "<img src= \'" + loc[value]["img"] + "\'>";
+  var placeArray;
+  let formattedPlace = "";
+  placeArray = value.split('_');
+  for (var i = 0; i < placeArray.length; i++) {
+  formattedPlace = formattedPlace + placeArray[i] + ' ';
+  }
+  document.getElementById("body").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\'>";
