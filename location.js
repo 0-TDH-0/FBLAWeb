@@ -455,7 +455,7 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
   formattedPlace = formattedPlace + placeArray[i] + ' ';
   }
   
-  document.getElementById("center").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"400\" height=\"300\">";
+  document.getElementById("center").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"" + screen.width/3.5 + "\" height=\"" + screen.height/3 + "\">";
   document.getElementById("contact").innerHTML = "<p> Phone: " + loc[value]["phone"] + "</p>" + "<p>Address: " + loc[value]["address"] + "</p>" + "<p>Website: " + loc[value]["website"] + "</p>"
   document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>"
   
