@@ -4,8 +4,8 @@ body{
 }
 
 .boxes{
-    width: 30vw;
-    height: 80vh;
+    width: 45vw;
+    height: 42vh;
     padding-top: 1vh;
     border: 0.3vw solid;
     background-clip: border-box;
@@ -17,18 +17,18 @@ body{
 
 #left{
     left: 3vw;
-    top: 10vh;
+    bottom: 3vh;
     border-color: blue;
 }
 
-#center{
-    top: 10vh;
-    left: 34.7vw;
+#topLeft{
+    top: 3vh;
+    left: 3vw;
     border-color: blueviolet;
 }
 
 #right{
-    top: 10vh;
+    top: 3vh;
     right: 3vw;
     border-color: cyan;
 }
@@ -44,6 +44,5 @@ p{
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bolder;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 1vh;
 }
