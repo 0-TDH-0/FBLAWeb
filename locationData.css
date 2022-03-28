@@ -1,0 +1,54 @@
+body{
+    font-family: Arial;
+    white-space: pre-line;
+}
+
+.boxes{
+    width: 45vw;
+    padding-top: 1vh;
+    border: 0.3vw solid;
+    background-clip: border-box;
+    position: fixed;
+    text-align: center;
+    word-wrap: break-word;
+    border-radius: 15px;
+    border-color: rgba(0,101,170,255);
+}
+
+#left{
+    height: 35vh;
+    left: 3vw;
+    bottom: 3vh;
+}
+
+#topLeft{
+    height: 50vh;
+    top: 3vh;
+    left: 3vw;
+}
+
+#right{
+    height: 35vh;
+    top: 3vh;
+    right: 3vw;
+}
+#bottomRight{
+    height: 50vh;
+    bottom: 3vh;
+    right: 3vw;
+}
+
+
+h1{
+    position: relative;
+    padding-bottom: 2vw;
+    border-bottom: 0.3vw solid rgba(108,190,111,255);
+    background-clip: border-box;
+}
+
+p{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-bottom: 1vh;
+}

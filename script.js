@@ -138,7 +138,7 @@ const restaurant = {
       rating: 4,
       price: 3
     },
-    BestBuy: {
+    Best_Buy: {
       style: "Appliances",
       rating: 4,
       price: 2
@@ -265,7 +265,7 @@ const restaurant = {
     }
   };
   const hotels = {
-    Travelodge_By_Whyndham_Waukegan: {
+    Travelodge_By_Wyndham_Waukegan: {
       rating: 3,
       price: 1
     },
@@ -284,7 +284,7 @@ const restaurant = {
       rating: 1,
       price: 1
     },
-    Woodspring_Suites_Gurnee:
+    WoodSpring_Suites_Gurnee:
     {
       rating: 3,
       price: 2
@@ -382,8 +382,8 @@ const restaurant = {
             for (var i = 0; i < placeArray.length; i++) {
               formattedPlace = formattedPlace + placeArray[i] + ' ';
             }
-            // this formats our output and hsows the output in their repsctive places
-            let temp = "window.location.href = \'"+ window.location.href + "?place=" + place +'\''
+            // this formats our output and shows the output in their repsctive places
+            let temp = "window.location.href = \'"+ window.location.href + "?place=" + place + "?rating=" +  dictionary[place]["rating"] + "?expense=" +  dictionary[place]["price"] + '\''
             temp = temp.replace("locative.html", "locationData.html")
             specText.innerHTML = specText.innerHTML + '<div class="boxes" id= \"' + place + '\" onclick = \"' + temp + '\" ><h1 class="text">' + formattedPlace + '</h1>' + '</div>';
             currentPlaces.push(place)
@@ -410,7 +410,7 @@ const restaurant = {
             for (var i = 0; i < placeArray.length; i++) {
               formattedPlace = formattedPlace + placeArray[i] + ' ';
             }
-            let temp = "window.location.href = \'"+ window.location.href + "?place=" + place +'\''
+            let temp = "window.location.href = \'"+ window.location.href + "?place=" + place + "?rating=" +  dictionary[place]["rating"] + "?expense=" +  dictionary[place]["price"] + '\''
             temp = temp.replace("locative.html", "locationData.html")
             specText.innerHTML = specText.innerHTML + '<div class="boxes" id= \"' + place + '\" onclick = \"' + temp + '\" ><h1 class="text">' + formattedPlace + '</h1>' + '</div>';
             currentPlaces.push(place)
@@ -433,6 +433,10 @@ const restaurant = {
     specPlace.className = 'specifics';
     specificDiv.appendChild(specPlace);
   }
+
+  document.getElementById("logo").onclick = function () {
+    window.location.href = window.location.href.replace("locative.html", "HomePage.html");
+  };
   
   
   //'<option value="typeOfRest">' + outputType + '</option>' + 

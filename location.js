@@ -1,3 +1,4 @@
+
 const loc = {
     Primo: {
       phone: "847-336-3446",
@@ -10,7 +11,7 @@ const loc = {
     Sarpino: {
       phone: "847-223-5000",
       address: "34484 US-45 Ste B, Third Lake, IL 60030",
-      img: "./images/Sarpino's Pizzeria.jpg",
+      img: "./images/Sarpinos Pizzeria.jpg",
       website: "https://gurnee.gosarpinos.com/ordering/intro/",
       timings: "10 am - 1 am",
       about: ""
@@ -18,7 +19,7 @@ const loc = {
     Galati_Pizza: {
       phone: "847-740-4222",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Gallati Pizza.jpg",
+      img: "./images/Galati Pizza.jpg",
       website: "https://www.galatipizza.com/",
       timings: "3 pm - 11 pm",
       about: ""
@@ -26,7 +27,7 @@ const loc = {
     Capones_Kitchen: {
       phone: "847-249-1776",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Capone's Kitchen.png",
+      img: "./images/Capones Kitchen.png",
       website: "https://www.sixflags.com/greatamerica/things-to-do/restaurants",
       timings: "11 am - 10:30 pm",
       about: ""
@@ -50,7 +51,7 @@ const loc = {
     Flanagans_Bar_and_Grill: {
       phone: "847-689-9062",
       address: " 3201 Buckley Rd, North Chicago, IL 60064",
-      img: "./images/Flanagan's Bar & Grill.jpg",
+      img: "./images/Flanagans Bar & Grill.jpg",
       website: "http://www.flanaganssportsbar.com/",
       timings: "10 am - 1 am",
       about: ""
@@ -66,7 +67,7 @@ const loc = {
     Culvers: {
       phone: "847-662-9666",
       address: "1505 Nations Dr, Gurnee, IL 60031",
-      img: "./images/Culver's.jpg",
+      img: "./images/Culvers.jpg",
       website: "http://www.culvers.com/",
       timings: "10:30 am - 10 pm",
       about: ""
@@ -98,7 +99,7 @@ const loc = {
     Abels_Cantina: {
       phone: "847-548-2003",
       address: "125 Center St, Grayslake, IL 60030",
-      img: "./images/Abel's Cantina.jpg",
+      img: "./images/Abels Cantina.jpg",
       website: "https://abelscantina.square.site/",
       timings: "4 pm - 11 pm",
       about: ""
@@ -138,7 +139,7 @@ const loc = {
     Georges_Fresh_Market: {
       phone: "224-656-5488",
       address: "1490 Lewis Ave, North Chicago, IL 60064",
-      img: "./images/George's Fresh Market.jpg",
+      img: "./images/Georges Fresh Market.jpg",
       website: "https://www.georgesfreshmarket.com/",
       timings: "7 am - 9 pm",
       about: ""
@@ -146,7 +147,7 @@ const loc = {
     Heinens_Grocery_Store: {
       phone: "847-735-0026",
       address: "201 Waukegan Rd, Lake Bluff, IL 60044",
-      img: "./images/Heinen's Grocery Store.jpg",
+      img: "./images/Heinens Grocery Store.jpg",
       website: "http://www.heinens.com/",
       timings: "8 am - 8 pm",
       about: ""
@@ -154,7 +155,7 @@ const loc = {
     Jims_Pantry_Food_Mart: {
       phone: "847-623-6116",
       address: "Waukegan, IL 60087",
-      img: "./images/Jim's Pantry Food Mart.jpg",
+      img: "./images/Jims Pantry Food Mart.jpg",
       website: "https://nicelocal.com/illinois/shops/jims_pantry/",
       timings: "9 am - 12 pm",
       about: ""
@@ -170,7 +171,7 @@ const loc = {
     dds_DISCOUNT: {
       phone: "847-599-8632",
       address: "1535 N Lewis Ave, Waukegan, IL 60085",
-      img: "./images/dd's DISCOUNTS.jpg",
+      img: "./images/dds DISCOUNTS.jpg",
       website: "https://www.ddsdiscounts.com/",
       timings: "9 am - 10:30 pm",
       about: ""
@@ -202,7 +203,7 @@ const loc = {
     Lucys_Appliances: {
       phone: "847-872-4922",
       address: "3460 Sheridan Rd, Zion, IL 60099",
-      img: "./images/Lucy's Appliances.jpg",
+      img: "./images/Lucys Appliances.jpg",
       website: "https://www.lucysappliances.com/",
       timings: "9 am - 5 pm",
       about: ""
@@ -218,7 +219,7 @@ const loc = {
     Aarons: {
       phone: "847-625-1111",
       address: "1403 N Lewis Ave, Waukegan, IL 60085",
-      img: "./images/Aaron's.jpg",
+      img: "./images/Aarons.jpg",
       website: "http://www.aarons.com/",
       timings: "10 am - 7 pm",
       about: ""
@@ -359,7 +360,7 @@ const loc = {
       timings: "12 pm - 3 pm",
       about: ""
     },
-    Six_Flags_Great_America: {
+    SixFlags_Great_America: {
       phone: "847-249-1776",
       address: "1 Great America Parkway, Gurnee, IL 60031",
       img: "./images/Six Flags Great America.jpg",
@@ -399,11 +400,12 @@ const loc = {
       timings: "8 am - sunset",
       about: ""
     },
-    Travelodge_by_Wyndham_Waukegan: {
+    Travelodge_By_Wyndham_Waukegan: {
       phone: "847-693-4431",
       address: "3633 N Lewis Ave, Waukegan, IL 60087",
       img: "./images/Travelodge by Wyndham Waukegan.jpg",
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
+      timings: "Always Open",
       about: ""
     },
     Deer_Path_Inn: {
@@ -411,6 +413,7 @@ const loc = {
       address: "255 E Illinois Rd, Lake Forest, IL 60045",
       img: "./images/Deer Path Inn.jpg",
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
+      timings: "Always Open",
       about: ""
     },
     Sonesta_Select_Arlington_Heights_North: {
@@ -418,6 +421,7 @@ const loc = {
       address: "3700 N Wilke Rd, Arlington Heights, IL 60004",
       img: "./images/Sonesta Select Arlington Heights North.jpg",
       website: "https://www.sonesta.com/sonesta-select/il/arlington-heights/sonesta-select-arlington-heights-north/",
+      timings: "Always Open",
       about: ""
     },
     La_Quinta_Inn_and_Suites_by_Wyndham_Chicago_Gurnee: {
@@ -425,6 +429,7 @@ const loc = {
       address: "5688 Northridge Dr, Gurnee, IL 60031",
       img: "./images/La Quinta Inn & Suites by Wyndham Chicago Gurnee.jpg",
       website: "https://www.wyndhamhotels.com/laquinta/gurnee-illinois/la-quinta-chicago-gurnee/overview",
+      timings: "Always Open",
       about: ""
     },
     WoodSpring_Suites_Gurnee: {
@@ -432,6 +437,7 @@ const loc = {
       address: "5742 Northridge Dr, Gurnee, IL 60031",
       img: "./images/Woodspring Suites Gurnee.jpg",
       website: "https://www.woodspring.com/extended-stay-hotels/locations/illinois/gurnee/woodspring-suites-gurnee-north-chicago",
+      timings: "Always Open",
       about: ""
     }
   };
@@ -442,5 +448,17 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
     get: (searchParams, prop) => searchParams.get(prop),
   });
   
-  let value = params.place; 
-  document.getElementById("body").innerHTML = "<img src= \'" + loc[value]["img"] + "\'>";
+  let value = params.place.split("?")[0];
+  let rating = parseInt(params.place.split("?")[1].split("=")[1]);
+  let expense = parseInt(params.place.split("?")[2].split("=")[1]);
+
+  var placeArray;
+  let formattedPlace = "";
+  placeArray = value.split('_');
+  for (var i = 0; i < placeArray.length; i++) {
+  formattedPlace = formattedPlace + placeArray[i] + ' ';
+  }
+  document.getElementById("topLeft").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"" + screen.width/2.3 + "\" height=\"" + screen.height/3.2 + "\">";
+  document.getElementById("contact").innerHTML = "<p> Phone: " + loc[value]["phone"] + "</p>" + "<p>Website: " + loc[value]["website"] + "</p>"
+  document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>" + "<p> Rating: " + rating + "</p>" + "<p> Expense: " + expense + "</p>"
+  document.getElementById("address").innerHTML = "<p>Address: " + loc[value]["address"] + "</p>"

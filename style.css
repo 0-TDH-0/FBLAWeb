@@ -2,7 +2,7 @@
 body {
     font-family: Arial;
     color: white;
-    font-size: 20pt;
+    font-size: 20px;
   } /* This format is for the LoCative Title at the top */
   
   .top {
@@ -82,11 +82,7 @@ body {
     right: 0vw;
   } */
   
-  logo {
-    position: fixed;
-    top: 100px;
-    right: 100px;
-  } /* logo sizing */
+
   
   img{
     position: absolute;
@@ -95,6 +91,7 @@ body {
     width: 10vh;
     height: 10vh;
     z-index: 5;
+    cursor: pointer;
   } /* Image placing */
   
   .boxes {
