@@ -1,3 +1,4 @@
+
 const loc = {
     Primo: {
       phone: "847-336-3446",
@@ -359,7 +360,7 @@ const loc = {
       timings: "12 pm - 3 pm",
       about: ""
     },
-    Six_Flags_Great_America: {
+    SixFlags_Great_America: {
       phone: "847-249-1776",
       address: "1 Great America Parkway, Gurnee, IL 60031",
       img: "./images/Six Flags Great America.jpg",
@@ -447,15 +448,17 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
     get: (searchParams, prop) => searchParams.get(prop),
   });
   
-  let value = params.place; 
+  let value = params.place.split("?")[0];
+  let rating = parseInt(params.place.split("?")[1].split("=")[1]);
+  let expense = parseInt(params.place.split("?")[2].split("=")[1]);
+
   var placeArray;
   let formattedPlace = "";
   placeArray = value.split('_');
   for (var i = 0; i < placeArray.length; i++) {
   formattedPlace = formattedPlace + placeArray[i] + ' ';
   }
-  
-  document.getElementById("center").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"" + screen.width/3.5 + "\" height=\"" + screen.height/3 + "\">";
+  document.getElementById("topLeft").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"" + screen.width/3.5 + "\" height=\"" + screen.height/4.4 + "\">";
   document.getElementById("contact").innerHTML = "<p> Phone: " + loc[value]["phone"] + "</p>" + "<p>Address: " + loc[value]["address"] + "</p>" + "<p>Website: " + loc[value]["website"] + "</p>"
-  document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>"
+  document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>" + "<p> Rating: " + rating + "</p>" + "<p> Expense: " + expense + "</p>"
   
