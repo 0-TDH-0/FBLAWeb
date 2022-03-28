@@ -410,7 +410,7 @@ const restaurant = {
             for (var i = 0; i < placeArray.length; i++) {
               formattedPlace = formattedPlace + placeArray[i] + ' ';
             }
-            let temp = "window.location.href = \'"+ window.location.href + "?place=" + place + "?rating=" +  dictionary[place]["rating"] + "?expense=" +  dictionary[place]["expense"] + '\''
+            let temp = "window.location.href = \'"+ window.location.href + "?place=" + place + "?rating=" +  dictionary[place]["rating"] + "?expense=" +  dictionary[place]["price"] + '\''
             temp = temp.replace("locative.html", "locationData.html")
             specText.innerHTML = specText.innerHTML + '<div class="boxes" id= \"' + place + '\" onclick = \"' + temp + '\" ><h1 class="text">' + formattedPlace + '</h1>' + '</div>';
             currentPlaces.push(place)
@@ -433,6 +433,10 @@ const restaurant = {
     specPlace.className = 'specifics';
     specificDiv.appendChild(specPlace);
   }
+
+  document.getElementById("logo").onclick = function () {
+    window.location.href = window.location.href.replace("locative.html", "HomePage.html");
+  };
   
   
   //'<option value="typeOfRest">' + outputType + '</option>' + 

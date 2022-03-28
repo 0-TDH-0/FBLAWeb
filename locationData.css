@@ -5,7 +5,6 @@ body{
 
 .boxes{
     width: 45vw;
-    height: 42vh;
     padding-top: 1vh;
     border: 0.3vw solid;
     background-clip: border-box;
@@ -13,36 +12,37 @@ body{
     text-align: center;
     word-wrap: break-word;
     border-radius: 15px;
+    border-color: rgba(0,101,170,255);
 }
 
 #left{
+    height: 35vh;
     left: 3vw;
     bottom: 3vh;
-    border-color: blue;
 }
 
 #topLeft{
+    height: 50vh;
     top: 3vh;
     left: 3vw;
-    border-color: blueviolet;
 }
 
 #right{
+    height: 35vh;
     top: 3vh;
     right: 3vw;
-    border-color: cyan;
 }
 #bottomRight{
+    height: 50vh;
     bottom: 3vh;
     right: 3vw;
-    border-color: greenyellow;
 }
 
 
 h1{
     position: relative;
     padding-bottom: 2vw;
-    border-bottom: 0.3vw solid purple;
+    border-bottom: 0.3vw solid rgba(108,190,111,255);
     background-clip: border-box;
 }
 
