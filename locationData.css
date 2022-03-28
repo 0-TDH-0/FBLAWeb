@@ -1,0 +1,49 @@
+body{
+    font-family: Arial;
+    white-space: pre-line;
+}
+
+.boxes{
+    width: 30vw;
+    height: 80vh;
+    padding-top: 1vh;
+    border: 0.3vw solid;
+    background-clip: border-box;
+    position: fixed;
+    text-align: center;
+    word-wrap: break-word;
+    border-radius: 15px;
+}
+
+#left{
+    left: 3vw;
+    top: 10vh;
+    border-color: blue;
+}
+
+#center{
+    top: 10vh;
+    left: 34.7vw;
+    border-color: blueviolet;
+}
+
+#right{
+    top: 10vh;
+    right: 3vw;
+    border-color: cyan;
+}
+
+h1{
+    position: relative;
+    padding-bottom: 2vw;
+    border-bottom: 0.3vw solid purple;
+    background-clip: border-box;
+}
+
+p{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

@@ -404,6 +404,7 @@ const loc = {
       address: "3633 N Lewis Ave, Waukegan, IL 60087",
       img: "./images/Travelodge by Wyndham Waukegan.jpg",
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
+      timings: "Always Open",
       about: ""
     },
     Deer_Path_Inn: {
@@ -411,6 +412,7 @@ const loc = {
       address: "255 E Illinois Rd, Lake Forest, IL 60045",
       img: "./images/Deer Path Inn.jpg",
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
+      timings: "Always Open",
       about: ""
     },
     Sonesta_Select_Arlington_Heights_North: {
@@ -418,6 +420,7 @@ const loc = {
       address: "3700 N Wilke Rd, Arlington Heights, IL 60004",
       img: "./images/Sonesta Select Arlington Heights North.jpg",
       website: "https://www.sonesta.com/sonesta-select/il/arlington-heights/sonesta-select-arlington-heights-north/",
+      timings: "Always Open",
       about: ""
     },
     La_Quinta_Inn_and_Suites_by_Wyndham_Chicago_Gurnee: {
@@ -425,6 +428,7 @@ const loc = {
       address: "5688 Northridge Dr, Gurnee, IL 60031",
       img: "./images/La Quinta Inn & Suites by Wyndham Chicago Gurnee.jpg",
       website: "https://www.wyndhamhotels.com/laquinta/gurnee-illinois/la-quinta-chicago-gurnee/overview",
+      timings: "Always Open",
       about: ""
     },
     WoodSpring_Suites_Gurnee: {
@@ -432,6 +436,7 @@ const loc = {
       address: "5742 Northridge Dr, Gurnee, IL 60031",
       img: "./images/Woodspring Suites Gurnee.jpg",
       website: "https://www.woodspring.com/extended-stay-hotels/locations/illinois/gurnee/woodspring-suites-gurnee-north-chicago",
+      timings: "Always Open",
       about: ""
     }
   };
@@ -449,4 +454,8 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
   for (var i = 0; i < placeArray.length; i++) {
   formattedPlace = formattedPlace + placeArray[i] + ' ';
   }
-  document.getElementById("body").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\'>";
+  
+  document.getElementById("center").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"400\" height=\"300\">";
+  document.getElementById("contact").innerHTML = "<p> Phone: " + loc[value]["phone"] + "</p>" + "<p>Address: " + loc[value]["address"] + "</p>" + "<p>Website: " + loc[value]["website"] + "</p>"
+  document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>"
+  

@@ -284,7 +284,7 @@ const restaurant = {
       rating: 1,
       price: 1
     },
-    Woodspring_Suites_Gurnee:
+    WoodSpring_Suites_Gurnee:
     {
       rating: 3,
       price: 2
