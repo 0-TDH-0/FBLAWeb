@@ -7,7 +7,7 @@ const loc = {
       website: "https://primogurnee.com/",
       timings: "11 am - 9 pm",
       about: "",
-      mapimg: "./images/Primo map.png",
+      mapimg: "./images/Primo map.png"
     },
     Sarpino: {
       phone: "847-223-5000",
@@ -16,7 +16,7 @@ const loc = {
       website: "https://gurnee.gosarpinos.com/ordering/intro/",
       timings: "10 am - 1 am",
       about: "",
-      mapimg: "./images/Sarpino's Pizzeria map.png",
+      mapimg: "./images/Sarpinos Pizzeria map.png"
     },
     Galati_Pizza: {
       phone: "847-740-4222",
@@ -25,7 +25,7 @@ const loc = {
       website: "https://www.galatipizza.com/",
       timings: "3 pm - 11 pm",
       about: "",
-      mapimg: "./images/Galati Pizza map.png",
+      mapimg: "./images/Galati Pizza map.png"
     },
     Capones_Kitchen: {
       phone: "847-249-1776",
@@ -34,7 +34,7 @@ const loc = {
       website: "https://www.sixflags.com/greatamerica/things-to-do/restaurants",
       timings: "11 am - 10:30 pm",
       about: "",
-      mapimg: "./images/Capone's Kitchen map.png",
+      mapimg: "./images/Capone's Kitchen map.png"
     },
     Olive_Garden_Italian_Resturant: {
       phone: "847-336-3628",
@@ -43,7 +43,7 @@ const loc = {
       website: "https://www.olivegarden.com/home",
       timings: "11 am - 10 pm",
       about: "",
-      mapimg: "./images/Olive Garden map.png",
+      mapimg: "./images/Olive Garden map.png"
     },
     Jesse_Oaks_Food_and_Drinks: {
       phone: "847-223-2575",
@@ -52,7 +52,7 @@ const loc = {
       website: "https://www.jesseoaks.com/",
       timings: "10 am - 1 am",
       about: "",
-      mapimg: "./images/Jesse Oaks Food & Drink map.png",
+      mapimg: "./images/Jesse Oaks Food & Drink map.png"
     },
     Flanagans_Bar_and_Grill: {
       phone: "847-689-9062",
@@ -61,7 +61,7 @@ const loc = {
       website: "http://www.flanaganssportsbar.com/",
       timings: "10 am - 1 am",
       about: "",
-      mapimg: "./images/Flanagan's Bar & Grill map.png",
+      mapimg: "./images/Flanagan's Bar & Grill map.png"
     },
     First_Draft_Grays_lake: {
       phone: "(224) 541-4445",
@@ -70,7 +70,7 @@ const loc = {
       website: "http://firstdraftgrayslake.net/",
       timings: "12 pm - 11 pm",
       about: "",
-      mapimg: "./images/First Draft Grayslake map.png",
+      mapimg: "./images/First Draft Grayslake map.png"
     },
     Culvers: {
       phone: "847-662-9666",
@@ -79,7 +79,7 @@ const loc = {
       website: "http://www.culvers.com/",
       timings: "10:30 am - 10 pm",
       about: "",
-      mapimg: "./images/Culver's map.png",
+      mapimg: "./images/Culver's map.png"
     },
     The_Backyard_Steak_Pit: {
       phone: "847-356-5200",
@@ -88,7 +88,7 @@ const loc = {
       website: "https://thebackyardsteakpit.com//",
       timings: "4 pm - 8 pm",
       about: "",
-      mapimg: "./images/The Backyard Steak Pit map.png",
+      mapimg: "./images/The Backyard Steak Pit map.png"
     },
     El_Atezca_Two: {
       phone: "847-231-6512",
@@ -97,7 +97,7 @@ const loc = {
       website: "https://www.elaztecagrayslake.com/",
       timings: "10 am - 9 pm",
       about: "",
-      mapimg: "./images/El Azteca II.png",
+      mapimg: "./images/El Azteca II.png"
     },
     Tacos_El_Norte_Gurnee: {
       phone: "847-623-3034",
@@ -106,7 +106,7 @@ const loc = {
       website: "http://www.tacoselnortegurnee.com/",
       timings: "10 am - 10 pm",
       about: "",
-      mapimg: "./images/Tacos El Norte Gurnee.png",
+      mapimg: "./images/Tacos El Norte Gurnee.png"
     },
     Abels_Cantina: {
       phone: "847-548-2003",
@@ -115,7 +115,7 @@ const loc = {
       website: "https://abelscantina.square.site/",
       timings: "4 pm - 11 pm",
       about: "",
-      mapimg: "./images/Abel's Cantina.png",
+      mapimg: "./images/Abel's Cantina.png"
     },
     Taqueria_Los_Comales: {
       phone: "847-740-2606",
@@ -124,7 +124,7 @@ const loc = {
       website: "https://www.loscomales.com/",
       timings: "8 am - 12 am",
       about: "",
-      mapimg: "./images/Taqueria Los Comales.png",
+      mapimg: "./images/Taqueria Los Comales.png"
     },
     Dulces_Margaritas: {
       phone: "847-223-3505",
@@ -133,7 +133,7 @@ const loc = {
       website: "https://dulcemargaritas.com//",
       timings: "10 am - 9 pm",
       about: "",
-      mapimg: "./images/Dulces Margaritas.png",
+      mapimg: "./images/Dulces Margaritas.png"
     },
     Marianos: {
       phone: "866-742-6728",
@@ -142,7 +142,7 @@ const loc = {
       website: "http://www.marianos.com/",
       timings: "6 am - 10 pm",
       about: "",
-      mapimg: "./images/Mariano's map.png",
+      mapimg: "./images/Mariano's map.png"
     },
     Jewel_Osco: {
       phone: "877-276-9637",
@@ -151,7 +151,7 @@ const loc = {
       website: "http://www.jewelosco.com/",
       timings: "6 am - 12 am",
       about: "",
-      mapimg: "./images/Jewel-osco.png",
+      mapimg: "./images/Jewel-osco.png"
     },
     Georges_Fresh_Market: {
       phone: "224-656-5488",
@@ -160,7 +160,7 @@ const loc = {
       website: "https://www.georgesfreshmarket.com/",
       timings: "7 am - 9 pm",
       about: "",
-      mapimg: "./images/George's Fresh Market.png",
+      mapimg: "./images/George's Fresh Market.png"
     },
     Heinens_Grocery_Store: {
       phone: "847-735-0026",
@@ -169,7 +169,7 @@ const loc = {
       website: "http://www.heinens.com/",
       timings: "8 am - 8 pm",
       about: "",
-      mapimg: "./images/Heinen's Grocery Store map.png",
+      mapimg: "./images/Heinen's Grocery Store map.png"
     },
     Jims_Pantry_Food_Mart: {
       phone: "847-623-6116",
@@ -178,7 +178,7 @@ const loc = {
       website: "https://nicelocal.com/illinois/shops/jims_pantry/",
       timings: "9 am - 12 pm",
       about: "",
-      mapimg: "./images/Jim's Pantry Food Mart.png",
+      mapimg: "./images/Jim's Pantry Food Mart.png"
     },
     Full_Circle_Clothing: {
       phone: "N/A",
@@ -187,7 +187,7 @@ const loc = {
       website: "https://fullcircleclothing2020.com/",
       timings: "1 pm - 7 pm",
       about: "",
-      mapimg: "./images/Full Circle Clothing.png",
+      mapimg: "./images/Full Circle Clothing.png"
     },
     dds_DISCOUNT: {
       phone: "847-599-8632",
@@ -196,7 +196,7 @@ const loc = {
       website: "https://www.ddsdiscounts.com/",
       timings: "9 am - 10:30 pm",
       about: "",
-      mapimg: "./images/dd's Discounts.png",
+      mapimg: "./images/dd's Discounts.png"
     },
     H_and_M: {
       phone: "855-466-7467",
@@ -205,7 +205,7 @@ const loc = {
       website: "http://www.hm.com/",
       timings: "11 am - 8 pm",
       about: "",
-      mapimg: "./images/H&M.png",
+      mapimg: "./images/H&M.png"
     },
     Ross_Dress_for_Less: {
       phone: "847-599-1405",
@@ -214,7 +214,7 @@ const loc = {
       website: "https://www.rossstores.com/",
       timings: "10 am - 8 pm",
       about: "",
-      mapimg: "./images/Ross Dress for Less.png",
+      mapimg: "./images/Ross Dress for Less.png"
     },
     Windsor: {
       phone: "847-855-7439",
@@ -223,7 +223,7 @@ const loc = {
       website: "https://www.windsorstore.com/pages/il-gurnee-gurnee-mills",
       timings: "11 am - 8 pm",
       about: "",
-      mapimg: "./images/Windsor.png",
+      mapimg: "./images/Windsor.png"
     },
     Lucys_Appliances: {
       phone: "847-872-4922",
@@ -232,7 +232,7 @@ const loc = {
       website: "https://www.lucysappliances.com/",
       timings: "9 am - 5 pm",
       about: "",
-      mapimg: "./images/Lucy's Appliances.png",
+      mapimg: "./images/Lucy's Appliances.png"
     },
     Best_Buy: {
       phone: "847-406-3914",
@@ -241,7 +241,7 @@ const loc = {
       website: "https://www.bestbuy.com/",
       timings: "11 am - 7 pm",
       about: "",
-      mapimg: "./images/Best Buy.png",
+      mapimg: "./images/Best Buy.png"
     },
     Aarons: {
       phone: "847-625-1111",
@@ -250,7 +250,7 @@ const loc = {
       website: "http://www.aarons.com/",
       timings: "10 am - 7 pm",
       about: "",
-      mapimg: "./images/Aaron's.png",
+      mapimg: "./images/Aaron's.png"
     },
     The_Home_Depot: {
       phone: "847-625-1020",
@@ -259,7 +259,7 @@ const loc = {
       website: "http://www.homedepot.com/",
       timings: "6 am - 10 pm",
       about: "",
-      mapimg: "./images/The Home Depot.png",
+      mapimg: "./images/The Home Depot.png"
     },
     Affordable_Appliance_Inc: {
       phone: "847-625-1020",
@@ -268,7 +268,7 @@ const loc = {
       website: "https://affordable-appliances-inc.business.site/",
       timings: "9 am - 4 pm",
       about: "",
-      mapimg: "./images/Affordable Appliances.png",
+      mapimg: "./images/Affordable Appliances.png"
     },
     Citadel_Theatre: {
       phone: "847-735-8554",
@@ -277,7 +277,7 @@ const loc = {
       website: "http://www.citadeltheatre.org/",
       timings: "9 am - 1/7 pm",
       about: "",
-      mapimg: "./images/Citadel Theatre.png",
+      mapimg: "./images/Citadel Theatre.png"
     },
     Standing_Ovation_Theatre_Academy: {
       phone: "847-752-0202",
@@ -286,7 +286,7 @@ const loc = {
       website: "http://standingotheatre.com/",
       timings: "9 am - 4 pm",
       about: "" ,
-      mapimg: "./images/Standing Ovation Theatre Academy map.png",
+      mapimg: "./images/Standing Ovation Theatre Academy map.png"
     },
     James_Lumber_Center_for_the_Performing_Arts: {
       phone: "847-543-2300",
@@ -295,7 +295,7 @@ const loc = {
       website: "https://www.clcillinois.edu/aboutclc/depts/jlc",
       timings: "11 am - 5 pm",
       about: "",
-      mapimg: "./images/James Lumber Center for the Performing Arts.png",
+      mapimg: "./images/James Lumber Center for the Performing Arts.png"
     },
     Improv_Playhouse_Theater: {
       phone: "847-968-4529",
@@ -304,7 +304,7 @@ const loc = {
       website: "http://www.improvplayhouse.com/",
       timings: "6 pm - 8 pm",
       about: "",
-      mapimg: "./images/Improv Playhouse Theater.png",
+      mapimg: "./images/Improv Playhouse Theater.png"
     },
     Genesee_Theatre: {
       phone: "847-263-6300",
@@ -313,7 +313,7 @@ const loc = {
       website: "http://geneseetheatre.com/",
       timings: "12 pm - 5:30 pm",
       about: "",
-      mapimg: "./images/Genesee Theatre.png",
+      mapimg: "./images/Genesee Theatre.png"
     },
     C_You_At_The_Movies_Inc: {
       phone: "815-578-0500",
@@ -322,7 +322,7 @@ const loc = {
       website: "https://mchenrydowntowntheater.com/",
       timings: "10 pm - 4 pm",
       about: "",
-      mapimg: "./images/C You At The Movies.png",
+      mapimg: "./images/C You At The Movies.png"
     },
     Marcus_Gurnee_Mills_Cinema: {
       phone: "847-855-9945",
@@ -331,7 +331,7 @@ const loc = {
       website: "https://www.marcustheatres.com/theatre-locations/gurnee-mills-cinema-gurnee",
       timings: "12 pm - 11:30 pm",
       about: "",
-      mapimg: "./images/Marcus Gurnee Mills Cinema.png",
+      mapimg: "./images/Marcus Gurnee Mills Cinema.png"
     },
     Regal_Round_Lake_Beach: {
       phone: "844-462-7342",
@@ -340,7 +340,7 @@ const loc = {
       website: "https://www.regmovies.com/theatres/regal-round-lake-beach/0398",
       timings: "11 am - 11:30 pm",
       about: "",
-      mapimg: "./images/Regal Round Lake Beach.png",
+      mapimg: "./images/Regal Round Lake Beach.png"
     },
     Regal_Lake_Zurich: {
       phone: "844-462-7342",
@@ -349,7 +349,7 @@ const loc = {
       website: "https://www.regmovies.com/theatres/regal-lake-zurich/0620",
       timings: "11 am - 11:30 pm",
       about: "",
-      mapimg: "./images/Regal Lake Zurich.png",
+      mapimg: "./images/Regal Lake Zurich.png"
     },
     McHenry_Downtown_Indoor_Theater: {
       phone: "815-271-5010",
@@ -358,7 +358,7 @@ const loc = {
       website: "https://mchenrydowntowntheater.com/",
       timings: "9 pm - 5 pm",
       about: "",
-      mapimg: "./images/McHenry Downtown Theater.png",
+      mapimg: "./images/McHenry Downtown Theater.png"
     },
     Launch_Trampoline_Park_Gurnee: {
       phone: "224-325-5867",
@@ -367,7 +367,7 @@ const loc = {
       website: "https://launchtrampolinepark.com/gurnee/",
       timings: "4 pm - 8 pm",
       about: "",
-      mapimg: "./images/Launch Trampoline Park Gurnee.png",
+      mapimg: "./images/Launch Trampoline Park Gurnee.png"
     },
     Sixty_to_Escape: {
       phone: "844-623-7227",
@@ -376,7 +376,7 @@ const loc = {
       website: "https://www.62escape.com/",
       timings: "10 am - 9 pm",
       about: "",
-      mapimg: "./images/60 to Escape.png",
+      mapimg: "./images/60 to Escape.png"
     },
     Grayslake_Heritage_Center: {
       phone: "847-543-1745",
@@ -385,7 +385,7 @@ const loc = {
       website: "http://www.villageofgrayslake.com/",
       timings: "12 pm - 4 pm",
       about: "",
-      mapimg: "./images/Grayslake Heritage Center.png",
+      mapimg: "./images/Grayslake Heritage Center.png"
     },
     K1_Speed: {
       phone: "847-941-9400",
@@ -394,7 +394,7 @@ const loc = {
       website: "https://www.k1speed.com/",
       timings: "1 pm - 9 pm",
       about: "",
-      mapimg: "./images/K1 Speed.png",
+      mapimg: "./images/K1 Speed.png"
     },
     Prairie_Grass_Nature_Museum: {
       phone: "847-740-9823",
@@ -403,7 +403,7 @@ const loc = {
       website: "https://www.rlapd.org/prairie-grass-nature-museum",
       timings: "12 pm - 3 pm",
       about: "",
-      mapimg: "./images/Praire Grass Nature Museum.png",
+      mapimg: "./images/Praire Grass Nature Museum.png"
     },
     SixFlags_Great_America: {
       phone: "847-249-1776",
@@ -412,7 +412,7 @@ const loc = {
       website: "https://www.sixflags.com/greatamerica",
       timings: "9 am - 5 pm",
       about: "",
-      mapimg: "./images/Six Flags Great America.png",
+      mapimg: "./images/Six Flags Great America.png"
     },
     Hurricane_Harbour: {
       phone: "847-249-1766",
@@ -421,7 +421,7 @@ const loc = {
       website: "https://www.sixflags.com/hurricaneharborchicago",
       timings: "11 am - 6 pm",
       about: "",
-      mapimg: "./images/Hurricane Harbour.png",
+      mapimg: "./images/Hurricane Harbour.png"
     },
     Fort_Sheridan_Forest_Preserve: {
       phone: "847-367-6640",
@@ -430,7 +430,7 @@ const loc = {
       website: "http://www.lcfpd.org/fort-sheridan/",
       timings: "6:30 am - sunset",
       about: "",
-      mapimg: "./images/Fort Sheridan Forest Preserve.png",
+      mapimg: "./images/Fort Sheridan Forest Preserve.png"
     },
     Waukegan_Municipal_Beach: {
       phone: "N/A",
@@ -439,7 +439,7 @@ const loc = {
       website: "https://waukeganweb.net/index.aspx?NID=266",
       timings: "6 am - 9 pm",
       about: "",
-      mapimg: "./images/Waukegan Municipal Beach.png",
+      mapimg: "./images/Waukegan Municipal Beach.png"
     },
     Volo_Bog_State_Natural_Area: {
       phone: "815-344-1294",
@@ -448,7 +448,7 @@ const loc = {
       website: "https://www.dnr.illinois.gov/Parks/Pages/VoloBog.aspx",
       timings: "8 am - sunset",
       about: "",
-      mapimg: "./images/Volo Bog State Natural Area.png",
+      mapimg: "./images/Volo Bog State Natural Area.png"
     },
     Travelodge_By_Wyndham_Waukegan: {
       phone: "847-693-4431",
@@ -457,7 +457,7 @@ const loc = {
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Travelodge by Wyndham Waukegan.png",
+      mapimg: "./images/Travelodge by Wyndham Waukegan.png"
     },
     Deer_Path_Inn: {
       phone: "847-234-2280",
@@ -466,7 +466,7 @@ const loc = {
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Deer Path Inn.png",
+      mapimg: "./images/Deer Path Inn.png"
     },
     Sonesta_Select_Arlington_Heights_North: {
       phone: "847-394-9999",
@@ -475,7 +475,7 @@ const loc = {
       website: "https://www.sonesta.com/sonesta-select/il/arlington-heights/sonesta-select-arlington-heights-north/",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Sonesta Select Arlington Heights North.png",
+      mapimg: "./images/Sonesta Select Arlington Heights North.png"
     },
     La_Quinta_Inn_and_Suites_by_Wyndham_Chicago_Gurnee: {
       phone: "847-662-7600",
@@ -484,7 +484,7 @@ const loc = {
       website: "https://www.wyndhamhotels.com/laquinta/gurnee-illinois/la-quinta-chicago-gurnee/overview",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/La Quinta Inn & Suites by Wyndham Chicago Gurnee.png",
+      mapimg: "./images/La Quinta Inn & Suites by Wyndham Chicago Gurnee.png"
     },
     WoodSpring_Suites_Gurnee: {
       phone: "224-808-5096",
@@ -493,7 +493,7 @@ const loc = {
       website: "https://www.woodspring.com/extended-stay-hotels/locations/illinois/gurnee/woodspring-suites-gurnee-north-chicago",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Woodspring Suites Gurnee.png",
+      mapimg: "./images/Woodspring Suites Gurnee.png"
     }
   };
 
@@ -516,4 +516,4 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
   document.getElementById("topLeft").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"" + screen.width/2.3 + "\" height=\"" + screen.height/3.2 + "\">";
   document.getElementById("contact").innerHTML = "<p> Phone: " + loc[value]["phone"] + "</p>" + "<p>Website: " + loc[value]["website"] + "</p>"
   document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>" + "<p> Rating: " + rating + "</p>" + "<p> Expense: " + expense + "</p>"
-  document.getElementById("address").innerHTML = "<p>Address: " + loc[value]["address"] + "</p>"
+  document.getElementById("address").innerHTML = "<p>Address: " + loc[value]["address"] + "</p>" + "<img src= \'" + loc[value]["mapimg"] + "\' width=\"" + screen.width/2.6 + "\" height=\"" + screen.height/4 + "\">";
