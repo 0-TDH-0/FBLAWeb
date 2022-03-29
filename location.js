@@ -34,7 +34,7 @@ const loc = {
       website: "https://www.sixflags.com/greatamerica/things-to-do/restaurants",
       timings: "11 am - 10:30 pm",
       about: "",
-      mapimg: "./images/Capone's Kitchen map.png"
+      mapimg: "./images/Capones Kitchen map.png"
     },
     Olive_Garden_Italian_Resturant: {
       phone: "847-336-3628",
@@ -61,7 +61,7 @@ const loc = {
       website: "http://www.flanaganssportsbar.com/",
       timings: "10 am - 1 am",
       about: "",
-      mapimg: "./images/Flanagan's Bar & Grill map.png"
+      mapimg: "./images/Flanagans Bar & Grill map.png"
     },
     First_Draft_Grays_lake: {
       phone: "(224) 541-4445",
@@ -79,7 +79,7 @@ const loc = {
       website: "http://www.culvers.com/",
       timings: "10:30 am - 10 pm",
       about: "",
-      mapimg: "./images/Culver's map.png"
+      mapimg: "./images/Culvers map.png"
     },
     The_Backyard_Steak_Pit: {
       phone: "847-356-5200",
@@ -115,7 +115,7 @@ const loc = {
       website: "https://abelscantina.square.site/",
       timings: "4 pm - 11 pm",
       about: "",
-      mapimg: "./images/Abel's Cantina.png"
+      mapimg: "./images/Abels Cantina.png"
     },
     Taqueria_Los_Comales: {
       phone: "847-740-2606",
@@ -142,7 +142,7 @@ const loc = {
       website: "http://www.marianos.com/",
       timings: "6 am - 10 pm",
       about: "",
-      mapimg: "./images/Mariano's map.png"
+      mapimg: "./images/Marianos map.png"
     },
     Jewel_Osco: {
       phone: "877-276-9637",
@@ -160,7 +160,7 @@ const loc = {
       website: "https://www.georgesfreshmarket.com/",
       timings: "7 am - 9 pm",
       about: "",
-      mapimg: "./images/George's Fresh Market.png"
+      mapimg: "./images/Georges Fresh Market.png"
     },
     Heinens_Grocery_Store: {
       phone: "847-735-0026",
@@ -169,7 +169,7 @@ const loc = {
       website: "http://www.heinens.com/",
       timings: "8 am - 8 pm",
       about: "",
-      mapimg: "./images/Heinen's Grocery Store map.png"
+      mapimg: "./images/Heinens Grocery Store map.png"
     },
     Jims_Pantry_Food_Mart: {
       phone: "847-623-6116",
@@ -178,7 +178,7 @@ const loc = {
       website: "https://nicelocal.com/illinois/shops/jims_pantry/",
       timings: "9 am - 12 pm",
       about: "",
-      mapimg: "./images/Jim's Pantry Food Mart.png"
+      mapimg: "./images/Jims Pantry Food Mart.png"
     },
     Full_Circle_Clothing: {
       phone: "N/A",
@@ -196,7 +196,7 @@ const loc = {
       website: "https://www.ddsdiscounts.com/",
       timings: "9 am - 10:30 pm",
       about: "",
-      mapimg: "./images/dd's Discounts.png"
+      mapimg: "./images/dds Discounts.png"
     },
     H_and_M: {
       phone: "855-466-7467",
@@ -232,7 +232,7 @@ const loc = {
       website: "https://www.lucysappliances.com/",
       timings: "9 am - 5 pm",
       about: "",
-      mapimg: "./images/Lucy's Appliances.png"
+      mapimg: "./images/Lucys Appliances.png"
     },
     Best_Buy: {
       phone: "847-406-3914",
@@ -250,7 +250,7 @@ const loc = {
       website: "http://www.aarons.com/",
       timings: "10 am - 7 pm",
       about: "",
-      mapimg: "./images/Aaron's.png"
+      mapimg: "./images/Aarons.png"
     },
     The_Home_Depot: {
       phone: "847-625-1020",
