@@ -40,8 +40,9 @@ body{
 
 
 h1{
+    font-size: medium;
     position: relative;
-    padding-bottom: 2vw;
+    padding-bottom: 1vw;
     border-bottom: 0.3vw solid rgba(108,190,111,255);
     background-clip: border-box;
 }
