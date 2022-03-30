@@ -318,7 +318,7 @@ const loc = {
     C_You_At_The_Movies_Inc: {
       phone: "815-578-0500",
       address: "1204 N Green St, McHenry, IL 60050",
-      img: "./images/C You At The Movies, Inc..jpeg",
+      img: "./images/C You At The Movies.jpeg",
       website: "https://mchenrydowntowntheater.com/",
       timings: "10 pm - 4 pm",
       about: "",
