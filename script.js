@@ -166,7 +166,7 @@ const restaurant = {
       rating: 4,
       price: 1
     },
-    Stadning_Ovation_Theatre_Academy: {
+    Standing_Ovation_Theatre_Academy: {
       style: "Theatrics",
       rating: 4,
       price: 2
@@ -176,7 +176,7 @@ const restaurant = {
       rating: 4,
       price: 1
     },
-    Imporv_Playhouse_Theater: {
+    Improv_Playhouse_Theater: {
       style: "Theatrics",
       rating: 4,
       price: 1
