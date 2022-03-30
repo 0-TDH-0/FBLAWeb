@@ -189,7 +189,7 @@ const loc = {
       about: "",
       mapimg: "./images/Full Circle Clothing.png"
     },
-    dds_DISCOUNT: {
+    Dds_Discount: {
       phone: "847-599-8632",
       address: "1535 N Lewis Ave, Waukegan, IL 60085",
       img: "./images/dds DISCOUNTS.jpg",
