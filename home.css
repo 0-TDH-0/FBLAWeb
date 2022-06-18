@@ -18,12 +18,12 @@ body {font-family:sans-serif, Trebuchet;}
   border: thick green solid;
   width: 250px;
   height: 90px;
-  margin:120px auto 0 auto;
+  /*margin:120px auto 0 auto;*/
   overflow: hidden;
 }
 #greenDiv, #blueDiv {
-width: 250px;
-height: 100px;
+width: 200px;
+height: 80px;
 text-align: center;
 line-height: 100px;
 font: Trebuchet;
