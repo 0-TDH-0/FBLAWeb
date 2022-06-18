@@ -28,6 +28,8 @@ width: 200px;
 height: 80px;
 text-align: center;
 line-height: 100px;
+position: fixed;
+top: 200;
 font: Trebuchet;
 }
 #greenDiv {
