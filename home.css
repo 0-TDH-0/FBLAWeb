@@ -18,10 +18,8 @@ body {font-family:sans-serif, Trebuchet;}
   border: thick green solid;
   width: 200px;
   height: 50px;
-  position: static;
-  top: 100px;
-  left: 200px;
-  /*margin: 300px;*/
+  margin: 300px;
+  padding: 300px;
   overflow: hidden;
 }
 #greenDiv, #blueDiv {
