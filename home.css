@@ -20,7 +20,7 @@ body {font-family:sans-serif, Trebuchet;}
   height: 80px;
   margin: 10px;
   position: fixed;
-  top: 100;
+  top: 200;
   overflow: hidden;
 }
 #greenDiv, #blueDiv {
