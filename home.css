@@ -19,7 +19,8 @@ body {font-family:sans-serif, Trebuchet;}
   width: 200px;
   height: 80px;
   margin: 10px;
-  posistion: center;
+  position: fixed;
+  top: 100;
   overflow: hidden;
 }
 #greenDiv, #blueDiv {
