@@ -17,13 +17,13 @@ body {font-family:sans-serif, Trebuchet;}
 #wrapper {
   border: thick green solid;
   width: 200px;
-  height: 80px;
+  height: 50px;
   margin: 100px;
   overflow: hidden;
 }
 #greenDiv, #blueDiv {
 width: 200px;
-height: 80px;
+height: 50px;
 text-align: center;
 line-height: 100px;
 font: Trebuchet;
