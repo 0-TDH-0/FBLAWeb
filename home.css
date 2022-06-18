@@ -18,7 +18,8 @@ body {font-family:sans-serif, Trebuchet;}
   border: thick green solid;
   width: 200px;
   height: 80px;
-  margin:-120px auto 0 auto;
+  margin: 10px;
+  posistion: center;
   overflow: hidden;
 }
 #greenDiv, #blueDiv {
