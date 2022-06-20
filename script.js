@@ -1,7 +1,6 @@
 /*
 
 
-
 */
 
 //These dictionaries are our "database". 
@@ -345,7 +344,7 @@ const restaurant = {
         extra = '<option value="typeofAttraction"> Select Catagory</option><option value="Indoor">Indoor</option><option value="Outdoor">Outdoor</option>';
         placeholder = attractions;
         onChange(type);
-      }
+      } 
       else if (type = "Hotels") {
         placeholder = hotels;
         specificDiv.innerHTML = "";
