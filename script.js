@@ -1,7 +1,6 @@
 /*
 
 
-
 */
 
 //These dictionaries are our "database". 
@@ -166,7 +165,7 @@ const restaurant = {
       rating: 4,
       price: 1
     },
-    Stadning_Ovation_Theatre_Academy: {
+    Standing_Ovation_Theatre_Academy: {
       style: "Theatrics",
       rating: 4,
       price: 2
@@ -176,7 +175,7 @@ const restaurant = {
       rating: 4,
       price: 1
     },
-    Imporv_Playhouse_Theater: {
+    Improv_Playhouse_Theater: {
       style: "Theatrics",
       rating: 4,
       price: 1
@@ -345,7 +344,7 @@ const restaurant = {
         extra = '<option value="typeofAttraction"> Select Catagory</option><option value="Indoor">Indoor</option><option value="Outdoor">Outdoor</option>';
         placeholder = attractions;
         onChange(type);
-      }
+      } 
       else if (type = "Hotels") {
         placeholder = hotels;
         specificDiv.innerHTML = "";
