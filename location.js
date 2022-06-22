@@ -3,497 +3,497 @@ const loc = {
     Primo: {
       phone: "847-336-3446",
       address: "720 Milwaukee Ave, Gurnee, IL 60031",
-      img: "./images/Primo Italian Cuisine.jpg",
+      img: "./images/primo pic.png",
       website: "https://primogurnee.com/",
       timings: "11 am - 9 pm",
       about: "",
-      mapimg: "./images/Primo map.png"
+      mapimg: "./images/primo map.png"
     },
     Sarpino: {
       phone: "847-223-5000",
       address: "34484 US-45 Ste B, Third Lake, IL 60030",
-      img: "./images/Sarpinos Pizzeria.jpg",
+      img: "./images/sarpinos pizzeria.png",
       website: "https://gurnee.gosarpinos.com/ordering/intro/",
       timings: "10 am - 1 am",
       about: "",
-      mapimg: "./images/Sarpinos Pizzeria map.png"
+      mapimg: "./images/sarpinos map.png"
     },
     Galati_Pizza: {
       phone: "847-740-4222",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Galati Pizza.jpg",
+      img: "./images/galati pizza pic.png",
       website: "https://www.galatipizza.com/",
       timings: "3 pm - 11 pm",
       about: "",
-      mapimg: "./images/Galati Pizza map.png"
+      mapimg: "./images/galati pizza map.png"
     },
     Capones_Kitchen: {
       phone: "847-249-1776",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Capones Kitchen.png",
+      img: "./images/capones kitchen pic.png",
       website: "https://www.sixflags.com/greatamerica/things-to-do/restaurants",
       timings: "11 am - 10:30 pm",
       about: "",
-      mapimg: "./images/Capones Kitchen map.png"
+      mapimg: "./images/capones kitchen map.png"
     },
     Olive_Garden_Italian_Resturant: {
       phone: "847-336-3628",
       address: "5590 Northridge Dr, Gurnee, IL 60031",
-      img: "./images/Olive Garden Italian Resturant.jpg",
+      img: "./images/olive garden pic.png",
       website: "https://www.olivegarden.com/home",
       timings: "11 am - 10 pm",
       about: "",
-      mapimg: "./images/Olive Garden map.png"
+      mapimg: "./images/olive garden map.png"
     },
     Jesse_Oaks_Food_and_Drinks: {
       phone: "847-223-2575",
       address: "18490 W Old Gages Lake Rd, Gages Lake, IL 60030",
-      img: "./images/Jesse Oaks Food & Drink.jpg",
+      img: "./images/jesse oaks food & drink pic.png",
       website: "https://www.jesseoaks.com/",
       timings: "10 am - 1 am",
       about: "",
-      mapimg: "./images/Jesse Oaks Food & Drink map.png"
+      mapimg: "./images/jesse oaks food & drink map.png"
     },
     Flanagans_Bar_and_Grill: {
       phone: "847-689-9062",
       address: " 3201 Buckley Rd, North Chicago, IL 60064",
-      img: "./images/Flanagans Bar & Grill.jpg",
+      img: "./images/flanagans bar & grill pic.png",
       website: "http://www.flanaganssportsbar.com/",
       timings: "10 am - 1 am",
       about: "",
-      mapimg: "./images/Flanagans Bar & Grill map.png"
+      mapimg: "./images/flanagans bar & grill map.png"
     },
     First_Draft_Grays_lake: {
       phone: "(224) 541-4445",
       address: "250 Center St, Grayslake, IL 60030",
-      img: "./images/First Draft Grayslake.jpg",
+      img: "./images/first draft grayslake pic.png",
       website: "http://firstdraftgrayslake.net/",
       timings: "12 pm - 11 pm",
       about: "",
-      mapimg: "./images/First Draft Grayslake map.png"
+      mapimg: "./images/first draft grayslake map.png"
     },
     Culvers: {
       phone: "847-662-9666",
       address: "1505 Nations Dr, Gurnee, IL 60031",
-      img: "./images/Culvers.jpg",
+      img: "./images/culvers pic.png",
       website: "http://www.culvers.com/",
       timings: "10:30 am - 10 pm",
       about: "",
-      mapimg: "./images/Culvers map.png"
+      mapimg: "./images/culvers map.png"
     },
     The_Backyard_Steak_Pit: {
       phone: "847-356-5200",
       address: "1818 N Grandwood Dr, Gurnee, IL 60031",
-      img: "./images/The Backyard Steak Pit.jpg",
+      img: "./images/the backyard steak pit pic.png",
       website: "https://thebackyardsteakpit.com//",
       timings: "4 pm - 8 pm",
       about: "",
-      mapimg: "./images/The Backyard Steak Pit map.png"
+      mapimg: "./images/the backyard steak pit map.png"
     },
     El_Atezca_Two: {
       phone: "847-231-6512",
       address: "821 Center St, Grayslake, IL 60030",
-      img: "./images/El Azteca II",
+      img: "./images/el azteca II pic.png",
       website: "https://www.elaztecagrayslake.com/",
       timings: "10 am - 9 pm",
       about: "",
-      mapimg: "./images/El Azteca II.png"
+      mapimg: "./images/el azteca II map.png"
     },
     Tacos_El_Norte_Gurnee: {
       phone: "847-623-3034",
       address: "401 N Riverside Dr #27, Gurnee, IL 60031",
-      img: "./images/Tacos El Norte Gurnee.jpg",
+      img: "./images/tacos el norte gurnee pic.png",
       website: "http://www.tacoselnortegurnee.com/",
       timings: "10 am - 10 pm",
       about: "",
-      mapimg: "./images/Tacos El Norte Gurnee.png"
+      mapimg: "./images/tacos el norte gurnee map.png"
     },
     Abels_Cantina: {
       phone: "847-548-2003",
       address: "125 Center St, Grayslake, IL 60030",
-      img: "./images/Abels Cantina.jpg",
+      img: "./images/abels cantina pic.png",
       website: "https://abelscantina.square.site/",
       timings: "4 pm - 11 pm",
       about: "",
-      mapimg: "./images/Abels Cantina.png"
+      mapimg: "./images/abels cantina.png"
     },
     Taqueria_Los_Comales: {
       phone: "847-740-2606",
       address: "809 W Rollins Rd, Round Lake Heights, IL 60073",
-      img: "./images/Taqueria Los Camales.jpg",
+      img: "./images/taqueria los comales pic.png",
       website: "https://www.loscomales.com/",
       timings: "8 am - 12 am",
       about: "",
-      mapimg: "./images/Taqueria Los Comales.png"
+      mapimg: "./images/taqueria los comales map.png"
     },
     Dulces_Margaritas: {
       phone: "847-223-3505",
       address: "1814 E Belvidere Rd, Grayslake, IL 60030",
-      img: "./images/Dulce Margaritas.jpg",
+      img: "./images/dulces margaritas pic.png",
       website: "https://dulcemargaritas.com//",
       timings: "10 am - 9 pm",
       about: "",
-      mapimg: "./images/Dulces Margaritas.png"
+      mapimg: "./images/dulces margaritas map.png"
     },
     Marianos: {
       phone: "866-742-6728",
       address: "1720 N Milwaukee Ave, Vernon Hills, IL 60061",
-      img: "./images/Marianos.jpg",
+      img: "./images/marianos pic.png",
       website: "http://www.marianos.com/",
       timings: "6 am - 10 pm",
       about: "",
-      mapimg: "./images/Marianos map.png"
+      mapimg: "./images/marianos map.png"
     },
     Jewel_Osco: {
       phone: "877-276-9637",
       address: "922 Green Bay Rd, Waukegan, IL 60085",
-      img: "./images/Jewel-Osco.jpg",
+      img: "./images/jewel osco pic.png",
       website: "http://www.jewelosco.com/",
       timings: "6 am - 12 am",
       about: "",
-      mapimg: "./images/Jewel-osco.png"
+      mapimg: "./images/jewel osco map.png"
     },
     Georges_Fresh_Market: {
       phone: "224-656-5488",
       address: "1490 Lewis Ave, North Chicago, IL 60064",
-      img: "./images/Georges Fresh Market.jpg",
+      img: "./images/georges fresh market pic.png",
       website: "https://www.georgesfreshmarket.com/",
       timings: "7 am - 9 pm",
       about: "",
-      mapimg: "./images/Georges Fresh Market.png"
+      mapimg: "./images/georges fresh market map.png"
     },
     Heinens_Grocery_Store: {
       phone: "847-735-0026",
       address: "201 Waukegan Rd, Lake Bluff, IL 60044",
-      img: "./images/Heinens Grocery Store.jpg",
+      img: "./images/heinens grocery store pic.png",
       website: "http://www.heinens.com/",
       timings: "8 am - 8 pm",
       about: "",
-      mapimg: "./images/Heinens Grocery Store map.png"
+      mapimg: "./images/heinens grocery store map.png"
     },
     Jims_Pantry_Food_Mart: {
       phone: "847-623-6116",
       address: "Waukegan, IL 60087",
-      img: "./images/Jims Pantry Food Mart.jpg",
+      img: "./images/jims pantry food mart pic.png",
       website: "https://nicelocal.com/illinois/shops/jims_pantry/",
       timings: "9 am - 12 pm",
       about: "",
-      mapimg: "./images/Jims Pantry Food Mart.png"
+      mapimg: "./images/jims pantry food mart map.png"
     },
     Full_Circle_Clothing: {
       phone: "N/A",
       address: "228 N Genesee St Suite D, Waukegan, IL 60085",
-      img: "./images/Full Circle Clothing.jpg",
+      img: "./images/full circle clothing pic.png",
       website: "https://fullcircleclothing2020.com/",
       timings: "1 pm - 7 pm",
       about: "",
-      mapimg: "./images/Full Circle Clothing.png"
+      mapimg: "./images/full circle clothing map.png"
     },
     Dds_Discount: {
       phone: "847-599-8632",
       address: "1535 N Lewis Ave, Waukegan, IL 60085",
-      img: "./images/dds DISCOUNTS.jpg",
+      img: "./images/dds discount pic.png",
       website: "https://www.ddsdiscounts.com/",
       timings: "9 am - 10:30 pm",
       about: "",
-      mapimg: "./images/dds Discounts.png"
+      mapimg: "./images/dds discount map.png"
     },
     H_and_M: {
       phone: "855-466-7467",
       address: "109 Hawthorn Center, Vernon Hills, IL 60061",
-      img: "./images/H&M.jpg",
+      img: "./images/h&M pic.png",
       website: "http://www.hm.com/",
       timings: "11 am - 8 pm",
       about: "",
-      mapimg: "./images/H&M.png"
+      mapimg: "./images/H&M map.png"
     },
     Ross_Dress_for_Less: {
       phone: "847-599-1405",
       address: "1301 N Lewis Ave, Waukegan, IL 60085",
-      img: "./images/Ross Dress for Less.jpg",
+      img: "./images/ross dress for less pic.png",
       website: "https://www.rossstores.com/",
       timings: "10 am - 8 pm",
       about: "",
-      mapimg: "./images/Ross Dress for Less.png"
+      mapimg: "./images/ross dess for less map.png"
     },
     Windsor: {
       phone: "847-855-7439",
       address: "6170 Grand Ave Ste 529, Gurnee, IL 60031",
-      img: "./images/Windsor.jpg",
+      img: "./images/windsor pic.png",
       website: "https://www.windsorstore.com/pages/il-gurnee-gurnee-mills",
       timings: "11 am - 8 pm",
       about: "",
-      mapimg: "./images/Windsor.png"
+      mapimg: "./images/windsor map.png"
     },
     Lucys_Appliances: {
       phone: "847-872-4922",
       address: "3460 Sheridan Rd, Zion, IL 60099",
-      img: "./images/Lucys Appliances.jpg",
+      img: "./images/lucys appliances pic.png",
       website: "https://www.lucysappliances.com/",
       timings: "9 am - 5 pm",
       about: "",
-      mapimg: "./images/Lucys Appliances.png"
+      mapimg: "./images/lucys appliances map.png"
     },
     Best_Buy: {
       phone: "847-406-3914",
       address: "6525 Grand Ave, Gurnee, IL 60031",
-      img: "./images/Best Buy.jpg",
+      img: "./images/best buy pic.png",
       website: "https://www.bestbuy.com/",
       timings: "11 am - 7 pm",
       about: "",
-      mapimg: "./images/Best Buy.png"
+      mapimg: "./images/best buy map.png"
     },
     Aarons: {
       phone: "847-625-1111",
       address: "1403 N Lewis Ave, Waukegan, IL 60085",
-      img: "./images/Aarons.jpg",
+      img: "./images/aarons pic.png",
       website: "http://www.aarons.com/",
       timings: "10 am - 7 pm",
       about: "",
-      mapimg: "./images/Aarons.png"
+      mapimg: "./images/aarons map.png"
     },
     The_Home_Depot: {
       phone: "847-625-1020",
       address: "2001 Belvedere Rd, Waukegan, IL 60085",
-      img: "./images/The Home Depot.jpg",
+      img: "./images/the home depot pic.png",
       website: "http://www.homedepot.com/",
       timings: "6 am - 10 pm",
       about: "",
-      mapimg: "./images/The Home Depot.png"
+      mapimg: "./images/the home depot map.png"
     },
     Affordable_Appliance_Inc: {
       phone: "847-625-1020",
       address: "2001 Belvedere Rd, Waukegan, IL 60085",
-      img: "./images/Affordable Appliances, Inc.jpg",
+      img: "./images/affordable appliances pic.png",
       website: "https://affordable-appliances-inc.business.site/",
       timings: "9 am - 4 pm",
       about: "",
-      mapimg: "./images/Affordable Appliances.png"
+      mapimg: "./images/affordable appliances map.png"
     },
     Citadel_Theatre: {
       phone: "847-735-8554",
       address: "300 S Waukegan Rd, Lake Forest, IL 60045",
-      img: "./images/Citadel Theatre.jpg",
+      img: "./images/citadel theatre pic.png",
       website: "http://www.citadeltheatre.org/",
       timings: "9 am - 1/7 pm",
       about: "",
-      mapimg: "./images/Citadel Theatre.png"
+      mapimg: "./images/citadel theatre map.png"
     },
     Standing_Ovation_Theatre_Academy: {
       phone: "847-752-0202",
       address: "Village Church, Hunt Club Rd, Gurnee, IL 60031",
-      img: "./images/Standing Ovation Theatre Academy.png",
+      img: "./images/standing ovation theatre academy pic.png",
       website: "http://standingotheatre.com/",
       timings: "9 am - 4 pm",
       about: "" ,
-      mapimg: "./images/Standing Ovation Theatre Academy map.png"
+      mapimg: "./images/standing ovation theatre academy map.png"
     },
     James_Lumber_Center_for_the_Performing_Arts: {
       phone: "847-543-2300",
       address: "19351 W Washington St, Grayslake, IL 60030",
-      img: "./images/James Lumber Center for the Performing Arts.jpeg",
+      img: "./images/james lumber center for the performing arts pic.png",
       website: "https://www.clcillinois.edu/aboutclc/depts/jlc",
       timings: "11 am - 5 pm",
       about: "",
-      mapimg: "./images/James Lumber Center for the Performing Arts.png"
+      mapimg: "./images/james lumber center map.png"
     },
     Improv_Playhouse_Theater: {
       phone: "847-968-4529",
       address: "735 N Milwaukee Ave, Libertyville, IL 60048",
-      img: "./images/Improv Playhouse Theater.jpg",
+      img: "./images/improv playhouse theatre pic.png",
       website: "http://www.improvplayhouse.com/",
       timings: "6 pm - 8 pm",
       about: "",
-      mapimg: "./images/Improv Playhouse Theater.png"
+      mapimg: "./images/improv playhouse theatre map.png"
     },
     Genesee_Theatre: {
       phone: "847-263-6300",
       address: "203 N Genesee St, Waukegan, IL 60085",
-      img: "./images/Genesee Theatre.jpg",
+      img: "./images/genesee theatre pic.png",
       website: "http://geneseetheatre.com/",
       timings: "12 pm - 5:30 pm",
       about: "",
-      mapimg: "./images/Genesee Theatre.png"
+      mapimg: "./images/genesee theatre map.png"
     },
     C_You_At_The_Movies_Inc: {
       phone: "815-578-0500",
       address: "1204 N Green St, McHenry, IL 60050",
-      img: "./images/C You At The Movies.jpeg",
+      img: "./images/c you at the movies pic.png",
       website: "https://mchenrydowntowntheater.com/",
       timings: "10 pm - 4 pm",
       about: "",
-      mapimg: "./images/C You At The Movies.png"
+      mapimg: "./images/c you at the movies map.png"
     },
     Marcus_Gurnee_Mills_Cinema: {
       phone: "847-855-9945",
       address: "6144 Grand Ave, Gurnee, IL 60031",
-      img: "./images/Marcus Gurnee Mills Cinema.jpg",
+      img: "./images/marcus gurnee mills cinema pic.png",
       website: "https://www.marcustheatres.com/theatre-locations/gurnee-mills-cinema-gurnee",
       timings: "12 pm - 11:30 pm",
       about: "",
-      mapimg: "./images/Marcus Gurnee Mills Cinema.png"
+      mapimg: "./images/marcus gurnee mills cinema map.png"
     },
     Regal_Round_Lake_Beach: {
       phone: "844-462-7342",
       address: "550 E Rollins Rd, Round Lake Beach, IL 60073",
-      img: "./images/Regal Round Lake Beach.jpg",
+      img: "./images/regal round lake beach.png",
       website: "https://www.regmovies.com/theatres/regal-round-lake-beach/0398",
       timings: "11 am - 11:30 pm",
       about: "",
-      mapimg: "./images/Regal Round Lake Beach.png"
+      mapimg: "./images/regal round lake beach map.png"
     },
     Regal_Lake_Zurich: {
       phone: "844-462-7342",
       address: "755 S Rand Rd, Lake Zurich, IL 60047",
-      img: "./images/Regal Round Lake Beach.jpeg",
+      img: "./images/regal lake zurich.png",
       website: "https://www.regmovies.com/theatres/regal-lake-zurich/0620",
       timings: "11 am - 11:30 pm",
       about: "",
-      mapimg: "./images/Regal Lake Zurich.png"
+      mapimg: "./images/regal lake zurich map.png"
     },
     McHenry_Downtown_Indoor_Theater: {
       phone: "815-271-5010",
       address: "1208 N Green St, McHenry, IL 60050",
-      img: "./images/Mchenry Downtown Indoor Theater.jpg",
+      img: "./images/mchenry downtown theatre pic.png",
       website: "https://mchenrydowntowntheater.com/",
       timings: "9 pm - 5 pm",
       about: "",
-      mapimg: "./images/McHenry Downtown Theater.png"
+      mapimg: "./images/mchenry downtown theatre map.png"
     },
     Launch_Trampoline_Park_Gurnee: {
       phone: "224-325-5867",
       address: "880 Lakeside Dr, Gurnee, IL 60031",
-      img: "./images/Launch Trampoline Park Gurnee.jpg",
+      img: "./images/launch trampoline park gurnee pic.png",
       website: "https://launchtrampolinepark.com/gurnee/",
       timings: "4 pm - 8 pm",
       about: "",
-      mapimg: "./images/Launch Trampoline Park Gurnee.png"
+      mapimg: "./images/launch trampoline park gurnee map.png"
     },
     Sixty_to_Escape: {
       phone: "844-623-7227",
       address: "6170 W Grand Ave, Gurnee, IL 60031",
-      img: "./images/60 to Escape.jpg",
+      img: "./images/60 to escape pic.png",
       website: "https://www.62escape.com/",
       timings: "10 am - 9 pm",
       about: "",
-      mapimg: "./images/60 to Escape.png"
+      mapimg: "./images/60 to escape map.png"
     },
     Grayslake_Heritage_Center: {
       phone: "847-543-1745",
       address: "164 Hawley St, Grayslake, IL 60030",
-      img: "./images/Grayslake Heritage Center.jpg",
+      img: "./images/grayslake heritage center pic.png",
       website: "http://www.villageofgrayslake.com/",
       timings: "12 pm - 4 pm",
       about: "",
-      mapimg: "./images/Grayslake Heritage Center.png"
+      mapimg: "./images/grayslake Heritage Center.png"
     },
     K1_Speed: {
       phone: "847-941-9400",
       address: "301 Hastings Dr, Buffalo Grove, IL 60089",
-      img: "./images/K1 Speed.jpg",
+      img: "./images/k1 speed.png",
       website: "https://www.k1speed.com/",
       timings: "1 pm - 9 pm",
       about: "",
-      mapimg: "./images/K1 Speed.png"
+      mapimg: "./images/k1 speed map.png"
     },
     Prairie_Grass_Nature_Museum: {
       phone: "847-740-9823",
       address: "860 Hart Rd, Round Lake, IL 60073",
-      img: "./images/Prairie Grass Nature Museum.jpg",
+      img: "./images/prairie grass nature museum pic.png",
       website: "https://www.rlapd.org/prairie-grass-nature-museum",
       timings: "12 pm - 3 pm",
       about: "",
-      mapimg: "./images/Praire Grass Nature Museum.png"
+      mapimg: "./images/praire grass nature museum map.png"
     },
     SixFlags_Great_America: {
       phone: "847-249-1776",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Six Flags Great America.jpg",
+      img: "./images/six flags pic.png",
       website: "https://www.sixflags.com/greatamerica",
       timings: "9 am - 5 pm",
       about: "",
-      mapimg: "./images/Six Flags Great America.png"
+      mapimg: "./images/six flags map.png"
     },
     Hurricane_Harbour: {
       phone: "847-249-1766",
       address: "1 Great America Parkway, Gurnee, IL 60031",
-      img: "./images/Hurricane Harbour.jpg",
+      img: "./images/hurricane harbour pic.png",
       website: "https://www.sixflags.com/hurricaneharborchicago",
       timings: "11 am - 6 pm",
       about: "",
-      mapimg: "./images/Hurricane Harbour.png"
+      mapimg: "./images/hurricane harbour map.png"
     },
     Fort_Sheridan_Forest_Preserve: {
       phone: "847-367-6640",
       address: "1275 Gilgare Ln, Lake Forest, IL 60045",
-      img: "./images/Fort Sheridan Forest Preserve.jpg",
+      img: "./images/fort sheridan forest preserve pic.png",
       website: "http://www.lcfpd.org/fort-sheridan/",
       timings: "6:30 am - sunset",
       about: "",
-      mapimg: "./images/Fort Sheridan Forest Preserve.png"
+      mapimg: "./images/fort sheridan forest preserve map.png"
     },
     Waukegan_Municipal_Beach: {
       phone: "N/A",
       address: "Waukegan Municipal Beach, Illinois",
-      img: "./images/Waukegan Municipal Beach.jpeg",
+      img: "./images/waukegan municipal beach pic.png",
       website: "https://waukeganweb.net/index.aspx?NID=266",
       timings: "6 am - 9 pm",
       about: "",
-      mapimg: "./images/Waukegan Municipal Beach.png"
+      mapimg: "./images/waukegan municipal beach map.png"
     },
     Volo_Bog_State_Natural_Area: {
       phone: "815-344-1294",
       address: "28478 Brandenburg Rd, Ingleside, IL 60041",
-      img: "./images/Volo Bog State Natural Area.jpg",
+      img: "./images/volo bog pic.png",
       website: "https://www.dnr.illinois.gov/Parks/Pages/VoloBog.aspx",
       timings: "8 am - sunset",
       about: "",
-      mapimg: "./images/Volo Bog State Natural Area.png"
+      mapimg: "./images/volo bog map.png"
     },
     Travelodge_By_Wyndham_Waukegan: {
       phone: "847-693-4431",
       address: "3633 N Lewis Ave, Waukegan, IL 60087",
-      img: "./images/Travelodge by Wyndham Waukegan.jpg",
+      img: "./images/travelodge pic.png",
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Travelodge by Wyndham Waukegan.png"
+      mapimg: "./images/travelodge map.png"
     },
     Deer_Path_Inn: {
       phone: "847-234-2280",
       address: "255 E Illinois Rd, Lake Forest, IL 60045",
-      img: "./images/Deer Path Inn.jpg",
+      img: "./images/deer path inn pic.png",
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Deer Path Inn.png"
+      mapimg: "./images/deer path inn map.png"
     },
     Sonesta_Select_Arlington_Heights_North: {
       phone: "847-394-9999",
       address: "3700 N Wilke Rd, Arlington Heights, IL 60004",
-      img: "./images/Sonesta Select Arlington Heights North.jpg",
+      img: "./images/sonesta select pic.png",
       website: "https://www.sonesta.com/sonesta-select/il/arlington-heights/sonesta-select-arlington-heights-north/",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Sonesta Select Arlington Heights North.png"
+      mapimg: "./images/sonesta select map.png"
     },
     La_Quinta_Inn_and_Suites_by_Wyndham_Chicago_Gurnee: {
       phone: "847-662-7600",
       address: "5688 Northridge Dr, Gurnee, IL 60031",
-      img: "./images/La Quinta Inn & Suites by Wyndham Chicago Gurnee.jpg",
+      img: "./images/la quinta pic.png",
       website: "https://www.wyndhamhotels.com/laquinta/gurnee-illinois/la-quinta-chicago-gurnee/overview",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/La Quinta Inn & Suites by Wyndham Chicago Gurnee.png"
+      mapimg: "./images/la quinta map.png"
     },
     WoodSpring_Suites_Gurnee: {
       phone: "224-808-5096",
       address: "5742 Northridge Dr, Gurnee, IL 60031",
-      img: "./images/Woodspring Suites Gurnee.jpg",
+      img: "./images/woodspring suites pic.png",
       website: "https://www.woodspring.com/extended-stay-hotels/locations/illinois/gurnee/woodspring-suites-gurnee-north-chicago",
       timings: "Always Open",
       about: "",
-      mapimg: "./images/Woodspring Suites Gurnee.png"
+      mapimg: "./images/woodspring suites map.png"
     }
   };
 
