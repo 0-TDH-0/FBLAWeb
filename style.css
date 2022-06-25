@@ -30,7 +30,7 @@ body {
     z-index: 1;
     left: 0px;
     top: 0px;
-    background-image: linear-gradient(to left, rgb(131, 80, 165), rgb(10, 101, 177));
+    background-image: linear-gradient(to left, rgb(10, 101, 177),rgb(92, 165, 85));
   } /* Top bar format */
   
   .left {
@@ -79,7 +79,7 @@ body {
   } /* Dropdown appearance */
   
   .button{
-    background-image: linear-gradient(to right, rgb(131, 80, 165), rgb(21, 79, 145));
+    background-image: linear-gradient(to right, rgb(10, 101, 177),rgb(92, 165, 85));
     color: white;
     border-radius: 15px;
     cursor: pointer;
