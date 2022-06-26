@@ -8,7 +8,7 @@ body, html {height: 100%;margin: 0;font: 400 15px/1.8 "monaco", monospace;color:
 
 
 .caption {position: absolute;left: 0;top: 50%;width: 100%; text-align: center;}
-.caption span.border {background-color: #0066AA;color: #fff;padding: 18px;font-size: 50px;letter-spacing: 5px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+.caption span.border {background-color: #0066AA;color: #fff;padding: 18px;font-size: 50px;letter-spacing: 5px;font-weight:bold;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
 h3 {letter-spacing: 5px;text-transform: uppercase;font: 20px "monaco", Monospace;color: #E4E9F7;text-align:center}
 
 *{margin:0; padding:0;}
