@@ -25,7 +25,7 @@ const loc = {
       website: "https://www.galatipizza.com/",
       timings: "3 pm - 11 pm",
       about: "Straightforward spot for pizza & casual Italian dishes, known for its 30-inch football-shaped pies.",
-      mapimg: "./maps/galati pizza map.png"
+      mapimg: "./maps/new galati pizza.png"
     },
     Capones_Kitchen: {
       phone: "847-249-1776",
