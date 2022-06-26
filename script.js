@@ -295,7 +295,7 @@ const restaurant = {
   let currentPlaces = [];
   
   //declaring some things for later
-  const specificDiv = document.getElementById("specificPlaces"); //div where new drop down will appear
+  const specificDiv = document.getElementById("specificPlaces"); //div where new dropdown will appear
   const specPlace = document.createElement("select"); //Creates placeholder for dropdown menu (onChange uses this).
   const specText = document.createElement("div");
         specText.id = "specText";
@@ -312,18 +312,18 @@ const restaurant = {
   let selectElement2 = document.querySelector('#ratingContent');
   
   let formattedPlace = '';
-  // this would store the certian places that pertian to all the filters and store so the code output
+  // this would store the certian places that pertain to all the filters and store so the code output
   let placeArray = [];
-  //this event listener listens if the user chnages any filter and presses the check option button
+  //this event listener listens if the user changes any filter and presses the check option button
   button.addEventListener("click", function () {
     if (placeholder != null)
       getOption(placeholder);
   });
   
-  //add event listener to detect change in "type" drop down
+  //add event listener to detect change in "type" dropdown
   selectElement.addEventListener("change", function () {
-    type = selectElement.value; //Grab current value of "Type" drop down 
-    //Checking selected drop down item
+    type = selectElement.value; //Grab current value of "Type" dropdown 
+    //Checking selected dropdown item
     if (type != "Type") {
       if (type == "Restaurants") {
         extra = '<option value="typeofRest"> Select Cuisine</option><option value="Italian">Italian</option><option value="Mexican">Mexican</option> <option value="American">American</option>';
@@ -366,7 +366,7 @@ const restaurant = {
       let filters = [selectStyle.value, parseInt(selectElement2.value), parseInt(selectExpense.value)];
       for (var place in dictionary) {
         formattedPlace = "";
-        // counts if the program check all the filter and cmpares it with the data
+        // counts if the program check all the filter and compares it with the data
         counter = 0;
         for (var quality in dictionary[place]) {
           if (counter == 0 && dictionary[place][quality] == filters[counter]) { }
