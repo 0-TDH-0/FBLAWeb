@@ -526,7 +526,12 @@ btn.addEventListener('click',()=>{
   for (var i = 0; i < placeArray.length; i++) {
   formattedPlace = formattedPlace + placeArray[i] + ' ';
   }
-  document.getElementById("topLeft").innerHTML = "<h1>" + formattedPlace + "</h1>" + "<img src= \'" + loc[value]["img"] + "\' width=\"" + screen.width/2.5 + "\" height=\"" + screen.height/3.5 + "\">";
+  document.getElementById("topLeft").innerHTML = "<img id = \'place\' src= \'" + loc[value]["img"] + "\' width=\"" + screen.width/2 + "\" height=\"" + screen.height/3 + "\">";
   document.getElementById("contact").innerHTML = "<p> Phone: " + loc[value]["phone"] + "</p>" + "<p>Website: " + loc[value]["website"] + "</p>"
-  document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>" + "<p> Rating: " + rating + "</p>" + "<p> Expense: " + expense + "</p>"
-  document.getElementById("address").innerHTML = "<p>Address: " + loc[value]["address"] + "</p>" + "<img src= \'" + loc[value]["mapimg"] + "\' width=\"" + screen.width/2.6 + "\" height=\"" + screen.height/4 + "\">";
+  document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["about"] + "</p>";
+  document.getElementById("address").innerHTML = "<img id = \'map\' src= \'" + loc[value]["mapimg"] + "\' width=\"" + screen.width/2.6 + "\" height=\"" + screen.height/4 + "\">" +"<p id = \'ad\'>  " + loc[value]["address"] + "</p>";
+  document.getElementById("abt").innerHTML = "<h2>" + formattedPlace + "</h2>"
+  document.getElementById("cnt").innerHTML = "<img class = \'icons\' src= \'./addressIcon.jpeg\' width=\"" + screen.width/2.5 + "\" height=\"" + screen.height/3.5 + "\">";
+  document.getElementById("time").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>";
+  document.getElementById("expense").innerHTML = "<p> Expense: " + expense + "</p>";
+  document.getElementById("rate").innerHTML = "<p> Rating: " + rating + "</p>";

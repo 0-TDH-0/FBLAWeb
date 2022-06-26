@@ -21,7 +21,7 @@
     top: 0px;
     background-image: linear-gradient(to left,  rgb(10, 101, 177),rgb(92, 165, 85));
   }
-img{
+#logo{
     position: absolute;
     top: 0;
     left: 0;
@@ -30,6 +30,23 @@ img{
     z-index: 5;
     cursor: pointer;
   } /* Image placing */
+#place{
+  position: absolute;
+  top: vh;
+  left: 1vw;
+  width: 30vh;
+  height: 30vh;
+}
+
+.icons{
+  width: 5vh;
+  height: 6vh;
+}
+
+#map{
+  width: 22vh;
+  height: 22vh;
+}
 .contactContainer {
   width:300px;
   display:flex;
@@ -41,6 +58,11 @@ img{
   margin-right:20px;
 
   
+}
+
+#cnt{
+  margin: 0%;
+  width: 5vh;
 }
 
 
@@ -91,6 +113,66 @@ button:active {
   color: white;
   text-align: center;
   
+}
+
+#topLeft {
+  position: absolute;
+  top:10vh;
+  left: 0;
+}
+#right{
+  position: absolute;
+  width : 30vw;
+  left: 70vw;
+  top: 12vh;
+  text-align: center;
+}
+
+h2,h1{
+  height: auto;
+  margin: 2%;
+}
+#bottomRight{
+  position: absolute;
+  width: 20vw;
+  height: auto;
+  text-align: inherit;
+  left: 40vw;
+  top: 10vh;
+  text-align: center;
+}
+
+#ad{
+  position: absolute;
+  left: 5.5vh;
+  top: 0%;
+  margin-top: 1.7vh;
+}
+
+
+#time{
+  position: absolute;
+  bottom: 61vh;
+  width: 20vw;
+  height: auto;
+  text-align: center;
+  left: 17vw;
+}
+
+#rate{
+  position: absolute;
+  width: auto;
+  left: 24.8vw;
+  bottom: 81vh;
+  text-align: center;
+}
+
+#expense{
+  position: absolute;
+  width: auto;
+  left: 24.5vw;
+  bottom: 71vh;
+  text-align: center;
 }
 
 input[type=text], select, textarea {
