@@ -1,54 +1,94 @@
-body{
-    font-family: Arial;
-}
+ body {
+  height: 100%;
 
-.boxes{
-    width: 45vw;
-    padding-top: 1vh;
-    border: 0.3vw solid;
-    background-clip: border-box;
-    position: fixed;
+  background-color: #e8fddf
+
+}
+ .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     text-align: center;
-    word-wrap: break-word;
-    border-radius: 15px;
-    border-color: rgba(0,101,170,255);
+  } /* To format the text */
+  
+  .top {
+    height: 10vh;
+    width: 100vw;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    background-image: linear-gradient(to left,  rgb(10, 101, 177),rgb(92, 165, 85));
+  }
+img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10vh;
+    height: 10vh;
+    z-index: 5;
+    cursor: pointer;
+  } /* Image placing */
+.contactContainer {
+  width:300px;
+  display:flex;
+  align-items:center; 
+}
+.contactContainer img { 
+  width:50px;
+  
+  margin-right:20px;
+
+  
 }
 
-#left{
-    height: 35vh;
-    left: 3vw;
-    bottom: 3vh;
-}
 
-#topLeft{
-    height: 50vh;
-    top: 3vh;
-    left: 3vw;
-}
-
-#right{
-    height: 35vh;
-    top: 3vh;
-    right: 3vw;
-}
-#bottomRight{
-    height: 50vh;
-    bottom: 3vh;
-    right: 3vw;
+/* divider between the additional info section and the review section*/
+.ori {
+  margin: 0 -15px;
+  top:10vh;
+  position:absolute;
+  border-top: 40px solid #5ca555;
 }
 
 
-h1{
-    font-size: medium;
-    position: relative;
-    padding-bottom: 1vw;
-    border-bottom: 0.3vw solid rgba(108,190,111,255);
-    background-clip: border-box;
+button {
+  
+  border-radius: 0.25rem;
+  height: 2.75rem;
+  width: 3.5rem;
+  line-height: 2.5rem;
+  font-size: 1.2rem;
+  color: #ADAFBC;
+  background-color: transparent;
+  transition: transform 50ms;
 }
 
-p{
-    font-size: medium;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
-    padding-bottom: 0.5vh;
+button:hover {
+  background-color: #5ca555;
+}
+
+button:active {
+  transform: translateY(0.1rem);
+}
+
+.small {
+  font-size: 1.4rem;
+  color: #F19994; 
+}
+.medium {
+  font-size: 1.6rem;
+  color: #FF8484;  
+}
+
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  background-color: green;
+  color: white;
+  text-align: center;
+  
 }
