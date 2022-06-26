@@ -509,6 +509,19 @@ const params = new Proxy(new URLSearchParams(window.location.search), {
 
   var placeArray;
   let formattedPlace = "";
+
+let btn = document.querySelector('button');
+let classObj = {
+  ori: 'medium',
+ 
+  medium: 'large',
+  large: 'ori'
+}
+
+btn.addEventListener('click',()=>{
+  btn.classList = classObj[btn.classList[0]];
+});
+
   placeArray = value.split('_');
   for (var i = 0; i < placeArray.length; i++) {
   formattedPlace = formattedPlace + placeArray[i] + ' ';
