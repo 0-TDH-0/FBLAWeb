@@ -57,7 +57,7 @@ const loc = {
     Flanagans_Bar_and_Grill: {
       phone: "847-689-9062",
       address: " 3201 Buckley Rd, North Chicago, IL 60064",
-      img: "./pictures/new bar pic.png",
+      img: "./nationals templates/new bar pic.png",
       website: "http://www.flanaganssportsbar.com/",
       timings: "10 am - 1 am",
       about: "Sprawling pub for sports, bar bites, sandwiches & steaks plus weekly karaoke & Navy gatherings.",
@@ -201,7 +201,7 @@ const loc = {
     H_and_M: {
       phone: "855-466-7467",
       address: "109 Hawthorn Center, Vernon Hills, IL 60061",
-      img: "./pictures/new hm pic.png",
+      img: "./nationals templates/new hm pic.png",
       website: "http://www.hm.com/",
       timings: "11 am - 8 pm",
       about: "H&M Hennes & Mauritz AB (abbreviated H&M) is a multinational clothing company based in Sweden. Its focus is fast-fashion clothing for men, women, teenagers, and children.",
@@ -354,7 +354,7 @@ const loc = {
     McHenry_Downtown_Indoor_Theater: {
       phone: "815-271-5010",
       address: "1208 N Green St, McHenry, IL 60050",
-      img: "./pictures/new mchenry pic.png",
+      img: "./nationals templates/new mchenry pic.png",
       website: "https://mchenrydowntowntheater.com/",
       timings: "9 pm - 5 pm",
       about: "Venerable drive-in movie theater for current films with a playground, picnic area & concessions.",
@@ -444,7 +444,7 @@ const loc = {
     Volo_Bog_State_Natural_Area: {
       phone: "815-344-1294",
       address: "28478 Brandenburg Rd, Ingleside, IL 60041",
-      img: "./pictures/new bog pic.png",
+      img: "./nationals templates/new bog pic.png",
       website: "https://www.dnr.illinois.gov/Parks/Pages/VoloBog.aspx",
       timings: "8 am - sunset",
       about: "Volo Bog State Natural Area is a nature reserve in Illinois, United States, preserving Volo Bog.",
@@ -462,11 +462,11 @@ const loc = {
     Deer_Path_Inn: {
       phone: "847-234-2280",
       address: "255 E Illinois Rd, Lake Forest, IL 60045",
-      img: "./pictures/new deer pic.png",
+      img: "./nationals templates/new deer pic.png",
       website: "https://www.wyndhamhotels.com/travelodge/waukegan-illinois/travelodge-waukegan-gurnee/overview",
       timings: "Always Open",
       about: "Built in 1929 in the style of a halftimbered Tudor manor house, this upscale hotel is 0.6 miles from Lake Forest College and 1.1 miles from the beach at Forest Park.",
-      mapimg: "./maps/new deer map.png"
+      mapimg: "./nationals templates/new deer map.png"
     },
     Sonesta_Select_Arlington_Heights_North: {
       phone: "847-394-9999",
