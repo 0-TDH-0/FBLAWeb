@@ -138,7 +138,7 @@ img{
     color: black;
   }
 /* this is for the fade out instructions for the empty space before the user puts in their preferences*/
-.instructionsIMG{
+picture{
   position: absolute;
     top: 0;
     left: 0;
