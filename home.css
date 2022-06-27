@@ -1,4 +1,4 @@
-body, html {height: 100%;margin: 0;font: 18px "monaco", monospace;color: #DAF6D7;}
+body, html {height: 100%;margin: 0;font: 15px "monaco", monospace;color: #DAF6D7;}
 .bgimg-1, .bgimg-2, .bgimg-3 {position: relative;background-attachment: fixed;background-position: center;background-repeat: no-repeat;background-size: cover;}
 
 .bgimg-1 {background-image: url("./Lake\ County\ Image.jpg");min-height: 100%;}
