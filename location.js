@@ -525,14 +525,28 @@ btn.addEventListener('click',()=>{
   placeArray = value.split('_');
   for (var i = 0; i < placeArray.length; i++) {
   formattedPlace = formattedPlace + placeArray[i] + ' ';
-
+  
   }
-  document.getElementById("topLeft").innerHTML =   "<h2>" + formattedPlace + "</h2>"
+  /*document.getElementById("topLeft").innerHTML = "<img id = \'place\' src= \'" + loc[value]["img"] + "\'/>";
+  document.getElementById("contact").innerHTML = "<img id = \'person\' class = \'icons\' src= \'./personIcon.jpeg\' " + ">" + "<p id = \'con\'>  Phone: " + loc[value]["phone"] + "</p>" + "<p id = \'con2\'>Website: " + loc[value]["website"] + "</p>"
   document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["about"] + "</p>";
   document.getElementById("address").innerHTML = "<img id = \'map\' src= \'" + loc[value]["mapimg"] +"\'/>" +"<p id = \'ad\'>  " + loc[value]["address"] + "</p>";
-  document.getElementById("abt").innerHTML = "<img id = \'place\' src= \'" + loc[value]["img"] + "\'/>";
-  document.getElementById("contact").innerHTML = "<img id = \'person\' class = \'icons\' src= \'./personIcon.jpeg\' " + ">" + "<p id = \'con\'>  Phone: " + loc[value]["phone"] + "</p>" + "<p id = \'con2\'>Website: " + loc[value]["website"] + "</p>"
+  document.getElementById("abt").innerHTML = "<h2>" + formattedPlace + "</h2>"
   document.getElementById("cnt").innerHTML = "<img class = \'icons\' src= \'./addressIcon.jpeg\' " + ">";
+  document.getElementById("time").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>";
+  document.getElementById("expense").innerHTML = "<p> Expense: " + expense + "</p>";
+  document.getElementById("rate").innerHTML = "<p> Rating: " + rating + "</p>";
+  */
+/*trying to move stuff around myself"*/
+
+  document.getElementById("topLeft").innerHTML =  "<h2>" + formattedPlace + "</h2>"
+  document.getElementById("contact").innerHTML = "<img id = \'person\' class = \'icons\' src= \'./personIcon.jpeg\' " + ">" + "<p id = \'con\'>  Phone: " + loc[value]["phone"] + "</p>" + "<p id = \'con2\'>Website: " + loc[value]["website"] + "</p>"
+  document.getElementById("about").innerHTML = "<p> Times: " + loc[value]["about"] + "</p>";
+  document.getElementById("address").innerHTML = "<img id = \'map\' src= \'" + loc[value]["mapimg"] +"\'/>" +"<p id = \'ad\'>  " + loc[value]["address"] + "</p>";
+  document.getElementById("abt").innerHTML =  "<img id = \'place\' src= \'" + loc[value]["img"] + "\'/>";
+  document.getElementById("cnt").innerHTML = "<img class = \'icons\' src= \'./addressIcon.jpeg\' " + ">";
+
+  
   document.getElementById("time").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>";
   document.getElementById("expense").innerHTML = "<p> Expense: " + expense + "</p>";
   document.getElementById("rate").innerHTML = "<p> Rating: " + rating + "</p>";
