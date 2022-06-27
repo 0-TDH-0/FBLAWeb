@@ -138,6 +138,17 @@ body {
     color: black;
   }
 /* this is for the fade out instructions for the empty space before the user puts in their preferences*/
+.instructionsIMG{
+  position: absolute;
+    top: 0;
+    left: 0;
+    width: 50vh;
+    height: 50vh;
+    z-index: 5;
+    cursor: pointer;
+
+}
+
 .fade-out {
   animation: fadeOut ease 8s;
   -webkit-animation: fadeOut ease 8s;
@@ -187,4 +198,5 @@ body {
   }
   100% {
     opacity:0;
+}
 }
