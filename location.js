@@ -527,7 +527,7 @@ btn.addEventListener('click',()=>{
   formattedPlace = formattedPlace + placeArray[i] + ' ';
   
   }
-  /*document.getElementById("topLeft").innerHTML = "<img id = \'place\' src= \'" + loc[value]["img"] + "\'/>";
+document.getElementById("topLeft").innerHTML = "<img id = \'place\' src= \'" + loc[value]["img"] + "\'/>";
   document.getElementById("contact").innerHTML = "<img id = \'person\' class = \'icons\' src= \'./personIcon.jpeg\' " + ">" + "<p id = \'con\'>  Phone: " + loc[value]["phone"] + "</p>" + "<p id = \'con2\'>Website: " + loc[value]["website"] + "</p>"
   document.getElementById("about").innerHTML = "<p> Description: " + loc[value]["about"] + "</p>";
   document.getElementById("address").innerHTML = "<img id = \'map\' src= \'" + loc[value]["mapimg"] +"\'/>" +"<p id = \'ad\'>  " + loc[value]["address"] + "</p>";
@@ -536,8 +536,8 @@ btn.addEventListener('click',()=>{
   document.getElementById("time").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>";
   document.getElementById("expense").innerHTML = "<p> Expense: " + expense + "</p>";
   document.getElementById("rate").innerHTML = "<p> Rating: " + rating + "</p>";
-  */
-/*trying to move stuff around myself"*/
+
+/*trying to move stuff around myself" didnt work
 
   document.getElementById("topLeft").innerHTML =  "<h2>" + formattedPlace + "</h2>"
   document.getElementById("contact").innerHTML = "<img id = \'person\' class = \'icons\' src= \'./personIcon.jpeg\' " + ">" + "<p id = \'con\'>  Phone: " + loc[value]["phone"] + "</p>" + "<p id = \'con2\'>Website: " + loc[value]["website"] + "</p>"
@@ -549,4 +549,4 @@ btn.addEventListener('click',()=>{
   
   document.getElementById("time").innerHTML = "<p> Times: " + loc[value]["timings"] + "</p>";
   document.getElementById("expense").innerHTML = "<p> Expense: " + expense + "</p>";
-  document.getElementById("rate").innerHTML = "<p> Rating: " + rating + "</p>";
+  document.getElementById("rate").innerHTML = "<p> Rating: " + rating + "</p>";*/
