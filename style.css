@@ -104,12 +104,12 @@ body {
   
 .logo{
     position: absolute;
-    
-    top: 0;
-    left: 0;
-    width: 100vh;
-    height: 100vw;
-
+    height: 10vh;
+    width: 100vw;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
     cursor: pointer;
   } /* Image placing */
   
