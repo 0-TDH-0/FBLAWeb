@@ -61,7 +61,7 @@ const loc = {
       website: "http://www.flanaganssportsbar.com/",
       timings: "10 am - 1 am",
       about: "Sprawling pub for sports, bar bites, sandwiches & steaks plus weekly karaoke & Navy gatherings.",
-      mapimg: "./maps/new bar map.png"
+      mapimg: "./nationals templates/new bar map.png"
     },
     First_Draft_Grays_lake: {
       phone: "(224) 541-4445",
@@ -205,7 +205,7 @@ const loc = {
       website: "http://www.hm.com/",
       timings: "11 am - 8 pm",
       about: "H&M Hennes & Mauritz AB (abbreviated H&M) is a multinational clothing company based in Sweden. Its focus is fast-fashion clothing for men, women, teenagers, and children.",
-      mapimg: "./maps/new hm map.png"
+      mapimg: "./nationals templates/new hm map.png"
     },
     Ross_Dress_for_Less: {
       phone: "847-599-1405",
@@ -358,7 +358,7 @@ const loc = {
       website: "https://mchenrydowntowntheater.com/",
       timings: "9 pm - 5 pm",
       about: "Venerable drive-in movie theater for current films with a playground, picnic area & concessions.",
-      mapimg: "./maps/new mchenry map.png"
+      mapimg: "./nationals templates/new mchenry map.png"
     },
     Launch_Trampoline_Park_Gurnee: {
       phone: "224-325-5867",
@@ -448,7 +448,7 @@ const loc = {
       website: "https://www.dnr.illinois.gov/Parks/Pages/VoloBog.aspx",
       timings: "8 am - sunset",
       about: "Volo Bog State Natural Area is a nature reserve in Illinois, United States, preserving Volo Bog.",
-      mapimg: "./maps/new bog map.png"
+      mapimg: "./nationals templates/new bog map.png"
     },
     Travelodge_By_Wyndham_Waukegan: {
       phone: "847-693-4431",
