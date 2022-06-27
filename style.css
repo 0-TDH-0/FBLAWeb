@@ -108,7 +108,7 @@ body {
     top: 0;
     left: 0;
     width: 10vh;
-    height: 10vw;
+    height: 100vw;
 
     cursor: pointer;
   } /* Image placing */
